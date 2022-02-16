@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 title: 'Lecture 8: The Periodic Table and Periodic Trends'
 uid: 3ea46bd0-50d7-7305-ee1a-67bd41bfde89
@@ -56,10 +59,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

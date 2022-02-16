@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/030c450167ae4d83deaa71626be2bb92_Lecture_4.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/030c450167ae4d83deaa71626be2bb92_Lecture_4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 4 Notes
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: "Lecture 4: Wave-Particle Duality of Matter; Schr\xF6dinger Equation"
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_4.jpg
 uid: 030c4501-67ae-4d83-deaa-71626be2bb92

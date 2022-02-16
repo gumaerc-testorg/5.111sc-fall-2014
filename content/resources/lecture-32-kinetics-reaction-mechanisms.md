@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 32: Kinetics: Reaction Mechanisms'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 uid: 58624e6a-e2f0-5c68-053b-f3334baa8c0b
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L32_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/25f199be150557859fe349cd6c9d66ba_4q0T9c7jotw.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/25f199be150557859fe349cd6c9d66ba_4q0T9c7jotw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/4q0T9c7jotw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/323d5f7e28e2a81ebb2c58e64664d0b1_4q0T9c7jotw.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/323d5f7e28e2a81ebb2c58e64664d0b1_4q0T9c7jotw.pdf
 video_metadata:
   youtube_id: 4q0T9c7jotw
 ---

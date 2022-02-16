@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 19 Notes
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: "Lecture 19: Chemical Equilibrium: Le Ch\xE2telier\u2019s Principle"
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_19.jpg
 uid: 7458e1f2-81f1-81a5-ba12-5cef04bc45fe

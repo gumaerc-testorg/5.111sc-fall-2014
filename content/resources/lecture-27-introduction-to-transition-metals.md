@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 27: Introduction to Transition Metals'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Introduction to Transition Metals'
 uid: 16119a70-75cc-397f-777a-65c1c2aa5c46
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L27_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/006772af473656e093b66fe2759bd6fb_JBgbUI3pxV0.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/006772af473656e093b66fe2759bd6fb_JBgbUI3pxV0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/JBgbUI3pxV0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3c06a53e93499518678c525a4bd9da60_JBgbUI3pxV0.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3c06a53e93499518678c525a4bd9da60_JBgbUI3pxV0.pdf
 video_metadata:
   youtube_id: JBgbUI3pxV0
 ---

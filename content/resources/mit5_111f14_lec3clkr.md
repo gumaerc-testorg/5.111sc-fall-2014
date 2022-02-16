@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information regarding Wave-particle duality of
   light.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Clicker Questions for Lecture 3: Wave-particle
   duality of light'

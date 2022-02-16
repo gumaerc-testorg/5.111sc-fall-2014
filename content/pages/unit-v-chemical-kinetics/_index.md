@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit V: Chemical Kinetics'
 uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 ---

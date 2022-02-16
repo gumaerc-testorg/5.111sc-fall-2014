@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
+parent_type: CourseSection
 parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 uid: c8f99e55-bd17-66c4-505f-19e5b26af70c
@@ -59,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

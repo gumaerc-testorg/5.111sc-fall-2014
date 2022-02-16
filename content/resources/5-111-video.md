@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: video screenshot for 5.111
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9424f038150090d6e022c087f29c0dd3_5-111-video.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/9424f038150090d6e022c087f29c0dd3_5-111-video.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: video screenshot
 uid: 9424f038-1500-90d6-e022-c087f29c0dd3

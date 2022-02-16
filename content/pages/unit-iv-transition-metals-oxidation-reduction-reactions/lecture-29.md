@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
+parent_type: CourseSection
 parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
 uid: ddc6ceab-1311-3008-9df1-db9d631a91d2
@@ -58,10 +61,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

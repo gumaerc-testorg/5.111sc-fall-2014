@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 title: 'Lecture 7: Multi-electron Atoms'
 uid: 3cbec0b6-342c-45e2-19db-b316c53f0274
@@ -56,10 +59,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

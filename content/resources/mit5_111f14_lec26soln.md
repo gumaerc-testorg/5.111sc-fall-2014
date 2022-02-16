@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 26 solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/629c65943b4905560ca608a57669cb54_MIT5_111F14_Lec26Soln.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/629c65943b4905560ca608a57669cb54_MIT5_111F14_Lec26Soln.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 26: Chemical and Biological
   Oxidations'

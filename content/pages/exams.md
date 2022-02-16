@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 542fb9a7-7582-8df9-e538-8d70d4c04741
 ---
@@ -42,12 +45,12 @@ You are responsible for knowing the following guidelines for relative MO energie
 
 For **homo**nuclear diatomic molecules:
 
-*   The relative E ordering is πpx and πpy < σpz if Z < 8.
-*   The relative E ordering is σpz < πpx and πpy if Z = or > 8 for any row two elements and other examples we will see in this course (or on the exam).
+*   The relative E ordering is π{{< sub "px" >}} and π{{< sub "py" >}} \< σ{{< sub "pz" >}} if Z \< 8.
+*   The relative E ordering is σ{{< sub "pz" >}} \< π{{< sub "px" >}} and π{{< sub "py" >}} if Z = or > 8 for any row two elements and other examples we will see in this course (or on the exam).
 
 For **hetero**nuclear diatomic molecules:
 
-*   The relative E ordering is πpx and πpy < σpz if Z < 8 for both atoms.
+*   The relative E ordering is π{{< sub "px" >}} and π{{< sub "py" >}} \< σ{{< sub "pz" >}} if Z \< 8 for both atoms.
 *   You are not responsible for predicting the energy level ordering if either one of the atoms has Z = or > 8.
 
 For MO diagrams,
@@ -55,7 +58,7 @@ For MO diagrams,
 *   Label increasing energy with an arrow next to the diagram.
 *   Pay attention to whether the question asks for valence electrons or all electrons.
 *   For any bonding orbital drawn, include the corresponding anti-bonding orbital, even if it is not filled with any electrons.
-*   Label each atomic orbital (1s, 2s, 2px, 2py, 2pz, etc.) and each molecular orbital (σ2s, π2px, π2py, etc.) that you draw.
+*   Label each atomic orbital (1s, 2s, 2p{{< sub "x" >}}, 2p{{< sub "y" >}}, 2p{{< sub "z" >}}, etc.) and each molecular orbital (σ2s, π2p{{< sub "x" >}}, π2p{{< sub "y" >}}, etc.) that you draw.
 *   Fill in the electrons for both the atomic and molecular orbitals.
 
 [Exam II Equation sheet (PDF)]({{< baseurl >}}/resources/mit5_111f14_exam2equsheet)
@@ -97,7 +100,7 @@ Exam 4 covers Unit IV: Transition Metals & Oxidation-Reduction Reactions and the
 Final Exam
 ----------
 
-Approximately 80% of the final exam is on Exam 1–4 material. The remaining 20% of the final exam covers the new material from Unit V: Chemical Kinetics (Lectures 32–34). Equations that you are responsible for are the same as those for the in-class exams. For the new material, you are required to know ΔE = Ea,f\-Ea,r.
+Approximately 80% of the final exam is on Exam 1–4 material. The remaining 20% of the final exam covers the new material from Unit V: Chemical Kinetics (Lectures 32–34). Equations that you are responsible for are the same as those for the in-class exams. For the new material, you are required to know ΔE = E{{< sub "a,f" >}}\-E{{< sub "a,r" >}}.
 
 [Final Exam Equation sheet (PDF)]({{< baseurl >}}/resources/mit5_111f14_fnlexameqsheet)
 

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/eaea9b909de37c8ffd2db1ed6bd199cd_Lecture_34.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/eaea9b909de37c8ffd2db1ed6bd199cd_Lecture_34.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 34 Notes
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 34: Kinetics: Catalysts'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_34.jpg
 uid: eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd

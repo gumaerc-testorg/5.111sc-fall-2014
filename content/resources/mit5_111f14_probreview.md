@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/83ccdfcfa3327eda57fde82e885985b7_MIT5_111F14_ProbReview.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/83ccdfcfa3327eda57fde82e885985b7_MIT5_111F14_ProbReview.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 1: The Importance of Chemical Principles'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Problems for Lecture 1: The Importance of
   Chemical Principles'

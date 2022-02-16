@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?'
 uid: 74d44776-ec12-7476-168b-e0f074e4269b
@@ -59,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

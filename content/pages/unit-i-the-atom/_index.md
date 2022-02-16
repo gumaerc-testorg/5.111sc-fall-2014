@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit I: The Atom'
 uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 ---

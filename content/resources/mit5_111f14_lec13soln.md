@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 13 solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/901bb3225379643b4724190f11a1c42d_MIT5_111F14_Lec13Soln.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/901bb3225379643b4724190f11a1c42d_MIT5_111F14_Lec13Soln.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 13: Molecular Orbital
   Theory'

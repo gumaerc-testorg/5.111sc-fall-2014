@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: "Lecture 19: Chemical Equilibrium: Le Ch\xE2telier\u2019s Principle"
 uid: 06795698-54cc-cdb3-a6c7-13fa72200306
@@ -59,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

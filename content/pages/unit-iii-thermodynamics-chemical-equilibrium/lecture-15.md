@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 15: Thermodynamics: Bond and Reaction Enthalpies'
 uid: 09ecdc68-87c9-427d-73c0-edb2dab5283c
@@ -20,9 +23,9 @@ Topics
 
 
 1.  Thermodynamics
-    1.  Bond Energy / Bond Enthalpy (∆HB)
-    2.  Enthalpies of Reaction (∆Hr)
-    3.  Methods to Calculate ∆Hr
+    1.  Bond Energy / Bond Enthalpy (∆H{{< sub "B" >}})
+    2.  Enthalpies of Reaction (∆H{{< sub "r" >}})
+    3.  Methods to Calculate ∆H{{< sub "r" >}}
 
 
 {{< tdclose >}}
@@ -58,10 +61,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

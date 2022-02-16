@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 31 solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9b05c56ba05ca383673041fda383d26b_MIT5_111F14_Lec31Soln.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/9b05c56ba05ca383673041fda383d26b_MIT5_111F14_Lec31Soln.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit V: Chemical Kinetics'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 31: Nuclear Chemistry
   and Chemical Kinetics'

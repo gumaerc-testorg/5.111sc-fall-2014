@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 6: Hydrogen atom wavefunctions (orbitals)'
 uid: ab35c82d-af80-71bd-2879-ff3d57b76ca3
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L06_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47fde2dec1055b69a501aa05cab350a2_V-RPM3e8Ws0.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/47fde2dec1055b69a501aa05cab350a2_V-RPM3e8Ws0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/V-RPM3e8Ws0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/18a11810bc2cf5859e1be12828f76f32_V-RPM3e8Ws0.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/18a11810bc2cf5859e1be12828f76f32_V-RPM3e8Ws0.pdf
 video_metadata:
   youtube_id: V-RPM3e8Ws0
 ---

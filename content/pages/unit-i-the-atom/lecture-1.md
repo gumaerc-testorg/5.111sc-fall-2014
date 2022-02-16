@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 title: 'Lecture 1: The Importance of Chemical Principles'
 uid: 2093fa03-8f0b-9e63-c680-49a3ed4867fd
@@ -54,17 +57,17 @@ This material, which is a review of fundamental chemical principles, will not be
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Matter and Energy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -183,7 +186,7 @@ Section M: pp. F93–100
 
 {{< tableclose >}}
 
-Significant figures are important. Rules for scientific notation and significant figures are available in the back of our textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10\-9), μ (micro, 10\-6), m (milli, 10\-3), c (centi, 10\-2), and k (kilo, 103).
+Significant figures are important. Rules for scientific notation and significant figures are available in the back of our textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10{{< sup "\\-9" >}}), μ (micro, 10{{< sup "\\-6" >}}), m (milli, 10{{< sup "\\-3" >}}), c (centi, 10{{< sup "\\-2" >}}), and k (kilo, 10{{< sup "3" >}}).
 
 Problems and Solutions
 ----------------------

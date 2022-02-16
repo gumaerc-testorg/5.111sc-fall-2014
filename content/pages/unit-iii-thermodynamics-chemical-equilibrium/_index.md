@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit III: Thermodynamics & Chemical Equilibrium'
 uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 ---

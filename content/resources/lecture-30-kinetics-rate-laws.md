@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 30: Kinetics: Rate Laws'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Kinetics: Rate Laws'
 uid: cd8c5e17-31a6-6155-618e-6ca8df63e29b
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L30_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f8818d748f0a5559bf1f6066dbdef7a5_B7iFcW8USjQ.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f8818d748f0a5559bf1f6066dbdef7a5_B7iFcW8USjQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/B7iFcW8USjQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/989160dc5db63bdc4a5a15c42f223449_B7iFcW8USjQ.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/989160dc5db63bdc4a5a15c42f223449_B7iFcW8USjQ.pdf
 video_metadata:
   youtube_id: B7iFcW8USjQ
 ---

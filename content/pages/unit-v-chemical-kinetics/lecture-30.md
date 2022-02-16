@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
+parent_type: CourseSection
 parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 title: 'Lecture 30: Kinetics: Rate Laws'
 uid: bd55059e-8b18-2feb-fb2b-c8aef5adde05
@@ -57,10 +60,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/69bd40b3c8241027d24c167a359ed681_Lecture_23.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/69bd40b3c8241027d24c167a359ed681_Lecture_23.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 23 Notes
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 23: Acid-Base Titrations Part I'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_23.jpg
 uid: 69bd40b3-c824-1027-d24c-167a359ed681

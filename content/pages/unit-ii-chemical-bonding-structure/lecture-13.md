@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 title: 'Lecture 13: Molecular Orbital Theory'
 uid: 0e6db317-91e1-3ca8-0e85-5c92186dafb0
@@ -34,7 +37,7 @@ Topics
 {{< anchor "Lecture_Video13" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
 
-Why do some atoms readily form bonds with each other and other atoms don’t? Using molecular orbital theory, we can rationalize why molecular hydrogen (H2) is an abundant molecule whereas molecular helium (He2) is not. If you want to power your starship with dilithium (Li2) crystals, you should watch this lecture.
+Why do some atoms readily form bonds with each other and other atoms don’t? Using molecular orbital theory, we can rationalize why molecular hydrogen (H{{< sub "2" >}}) is an abundant molecule whereas molecular helium (He{{< sub "2" >}}) is not. If you want to power your starship with dilithium (Li{{< sub "2" >}}) crystals, you should watch this lecture.
 
 {{< resource bddcd141-8844-ccb0-fbdf-e3cd883a782b >}}
 
@@ -58,10 +61,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

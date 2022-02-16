@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
 uid: 1f4d2b01-7442-13a2-4431-1f67ec24ecae
@@ -19,7 +22,7 @@ Topics
 {{< tdopen >}}
 
 
-1.  Definitions and Relationships between pKw, pH, and pOH
+1.  Definitions and Relationships between pK{{< sub "w" >}}, pH, and pOH
 2.  Strengths of Acids and Bases
 3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases)
 
@@ -57,10 +60,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 uid: b3b4d0a5-1ad0-3c02-0b47-60598d90bd89
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L31_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/760bbe98c1ad51d18eeb734c175f0448_XKeAd4xybjM.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/760bbe98c1ad51d18eeb734c175f0448_XKeAd4xybjM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/XKeAd4xybjM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4197b40c04945d6fed2b8868c38ad25a_XKeAd4xybjM.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/4197b40c04945d6fed2b8868c38ad25a_XKeAd4xybjM.pdf
 video_metadata:
   youtube_id: XKeAd4xybjM
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1eb2fd82-4dc0-2f22-bc85-743316b46947
 ---
@@ -60,28 +62,6 @@ GIR ![General Institute Requirements](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of lecture hall from back of the classroom. Tiered seating. Chalkboards and lectern at front of room.]({{< resource_file caf946f3-ea49-1148-c5ba-9b6d9ce19df8 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with a seating capacity of 425 students. The room was equipped with a motorized chalkboard, wireless internet, a projection booth, and a sound system.
-    
-*   ![View from front of classroom. Five rows of tablet desks positioned in the center of classroom. Wall of windows to the left of desks.]({{< resource_file 86a60987-32e7-2d99-b76a-c2b768577413 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in smaller classrooms equipped with chalkboards and moveable desks.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

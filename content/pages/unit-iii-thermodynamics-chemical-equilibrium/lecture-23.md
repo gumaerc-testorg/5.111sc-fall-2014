@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 23: Acid-Base Titrations Part I'
 uid: 4d30b63d-cd60-89ec-bffc-fd57c80b1766
@@ -33,7 +36,7 @@ Topics
 {{< anchor "Lecture_Video23" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
 
-A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and/or pKa of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
+A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and/or pK{{< sub "a" >}} of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
 
 {{< resource 7baa34a9-e930-1bc7-e2b5-e32985d729db >}}
 
@@ -57,10 +60,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

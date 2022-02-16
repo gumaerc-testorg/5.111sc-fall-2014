@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit II: Chemical Bonding & Structure'
 uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 ---

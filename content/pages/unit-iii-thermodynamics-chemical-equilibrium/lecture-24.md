@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 24: Acid-Base Titrations Part II'
 uid: 92c821cc-7504-7b75-ec7b-50ab1516b1b6
@@ -32,7 +35,7 @@ Topics
 {{< anchor "Lecture_Video24" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
 
-We finish the topic of acid-base titrations and consider why pKa is so important. Chemist Samuel Thompson talks about a problem he encountered in his undergraduate research that had to do with the pKa of a molecular probe. Learn what the problem was and how he solved it.
+We finish the topic of acid-base titrations and consider why pK{{< sub "a" >}} is so important. Chemist Samuel Thompson talks about a problem he encountered in his undergraduate research that had to do with the pK{{< sub "a" >}} of a molecular probe. Learn what the problem was and how he solved it.
 
 {{< resource 46fc85ea-2cab-0cd7-cf43-45ff924fb834 >}}
 
@@ -56,10 +59,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -109,7 +112,7 @@ Related _Behind the Scenes at MIT_ Videos
 
 [Designing Probes To Image Proteins Inside Living Cells](http://techtv.mit.edu/videos/24168-designing-probes-to-image-proteins-inside-living-cells-2-0)
 
-Samuel Thompson discusses his research on designing new tools to track the movement of proteins within cells. He explains how understanding the relationship between pKa and pH was critical for the design of a new sensor, which he hopes can be used to image proteins in diseased cells.
+Samuel Thompson discusses his research on designing new tools to track the movement of proteins within cells. He explains how understanding the relationship between pK{{< sub "a" >}} and pH was critical for the design of a new sensor, which he hopes can be used to image proteins in diseased cells.
 
 [Samuel Thompson’s Personal Story](http://techtv.mit.edu/videos/24167-samuel-thompson-s-personal-story)
 

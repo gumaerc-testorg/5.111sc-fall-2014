@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 18: Introduction to Chemical Equilibrium'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Introduction to Chemical Equilibrium'
 uid: 27c25525-3bbd-2f0c-22db-a6623714e762
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L18_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/81cad1b317255cc2951841f16d344b24_f0udxGcoztE.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/81cad1b317255cc2951841f16d344b24_f0udxGcoztE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/f0udxGcoztE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bf4e182fba006080e28adf866e2fe515_f0udxGcoztE.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/bf4e182fba006080e28adf866e2fe515_f0udxGcoztE.pdf
 video_metadata:
   youtube_id: f0udxGcoztE
 ---

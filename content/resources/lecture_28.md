@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/af4d350d34ab0849ef969550987d4a7c_Lecture_28.jpg
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/af4d350d34ab0849ef969550987d4a7c_Lecture_28.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image excerpted from Lecture 28 Notes
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
+parent_type: CourseSection
 resourcetype: Image
 title: Lecture_28.jpg
 uid: af4d350d-34ab-0849-ef96-9550987d4a7c

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
 uid: d6637e6b-3f97-fce4-30ad-fd13c2b8ed0f
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/897f42272d565e4ea83def6ac634fec9_FJCVSswFXyE.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/897f42272d565e4ea83def6ac634fec9_FJCVSswFXyE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/FJCVSswFXyE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d016654bce12c0dec3ad433d18cfdbfe_FJCVSswFXyE.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/d016654bce12c0dec3ad433d18cfdbfe_FJCVSswFXyE.pdf
 video_metadata:
   youtube_id: FJCVSswFXyE
 ---

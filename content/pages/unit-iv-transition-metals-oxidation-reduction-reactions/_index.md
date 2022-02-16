@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 uid: 89863654-3b84-26a3-a530-91cb22239ee9
 ---

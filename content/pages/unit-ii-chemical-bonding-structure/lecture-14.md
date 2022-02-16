@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 title: 'Lecture 14: Valence Bond Theory and Hybridization'
 uid: bc4e02be-0613-a6fc-db1f-e751834b8e16
@@ -22,8 +25,8 @@ Topics
 1.  Valence Bond Theory and Hybridization
     1.  Sigma and pi Bonds
     2.  Hybridization of Atomic Orbitals
-        1.  sp3 Hybridization
-        2.  sp2 Hybridization
+        1.  sp{{< sup "3" >}} Hybridization
+        2.  sp{{< sup "2" >}} Hybridization
         3.  sp Hybridization
 
 
@@ -60,10 +63,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}

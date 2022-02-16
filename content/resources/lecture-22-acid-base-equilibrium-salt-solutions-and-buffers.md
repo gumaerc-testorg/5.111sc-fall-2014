@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 uid: d67e9fa2-ff59-92d5-7e3c-a98cb72df2ec
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bf9c25b1ab0a5b06b8d2d13cff780e47_caonmXHGB60.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/bf9c25b1ab0a5b06b8d2d13cff780e47_caonmXHGB60.vtt
   video_thumbnail_file: https://img.youtube.com/vi/caonmXHGB60/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/01fe21eed48df22c6de4bcbda7acf65e_caonmXHGB60.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/01fe21eed48df22c6de4bcbda7acf65e_caonmXHGB60.pdf
 video_metadata:
   youtube_id: caonmXHGB60
 ---

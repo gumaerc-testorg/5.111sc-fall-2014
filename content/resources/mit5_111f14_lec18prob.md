@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 18 problem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/517e9ef9c38ea95d3c03876dc53a44c9_MIT5_111F14_Lec18Prob.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/517e9ef9c38ea95d3c03876dc53a44c9_MIT5_111F14_Lec18Prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Problems for Lecture 18: Introduction to Chemical
   Equilibrium'

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
 uid: cea5735d-3ed5-ba46-3b11-ea6575b9ea5e
 video_files:
   archive_url: https://archive.org/download/MIT5.111F14/MIT5_111F14_L28_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f38a763c2393504fa3c1a27202a79ea8_lLdPSLNxDqA.vtt
+  video_captions_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f38a763c2393504fa3c1a27202a79ea8_lLdPSLNxDqA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/lLdPSLNxDqA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b55051934db9fd9eb9a88e009cdca165_lLdPSLNxDqA.pdf
+  video_transcript_file: /courses/5-111sc-principles-of-chemical-science-fall-2014/b55051934db9fd9eb9a88e009cdca165_lLdPSLNxDqA.pdf
 video_metadata:
   youtube_id: lLdPSLNxDqA
 ---

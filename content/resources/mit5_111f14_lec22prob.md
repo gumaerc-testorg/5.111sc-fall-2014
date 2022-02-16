@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 22 problem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f9d6659dc6a27d60c3225d3a4218382e_MIT5_111F14_Lec22Prob.pdf
+file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/f9d6659dc6a27d60c3225d3a4218382e_MIT5_111F14_Lec22Prob.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 resourcetype: Document
 title: 'Principles of Chemical Science, Problems for Lecture 22:  Acid-Base Equilibrium:
   Salt Solutions and Buffers'
