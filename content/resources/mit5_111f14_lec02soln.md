@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit I: The Atom'
 parent_type: CourseSection
+parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 2: Atomic Structure'
 uid: 60127478-97b2-9867-a463-fe6f2c99958f

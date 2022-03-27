@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
+parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 resourcetype: Document
 title: 'Lecture 26: Chemical and Biological Oxidations'
 uid: 6b82fc0c-bc1d-cf5e-58ed-968b6d8b1882

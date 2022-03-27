@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 16: Thermodynamics: Gibbs Free Energy and Entropy'
 parent_type: CourseSection
+parent_uid: 4161d4d2-b7e6-4498-f997-dfb3b69eca3c
 resourcetype: Image
 title: Lecture_16.jpg
 uid: 35ea3d5a-2627-b777-1fad-5c6ca91b533d

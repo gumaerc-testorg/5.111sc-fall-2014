@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 5: Hydrogen Atom Energy Levels'
 parent_type: CourseSection
+parent_uid: 19bd276c-98fb-61bc-72af-22c0567e02a2
 resourcetype: Image
 title: Lecture_5.jpg
 uid: 70f20273-f28b-4302-35bf-d08189ec3cbd

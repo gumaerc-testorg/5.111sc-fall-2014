@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)'
 parent_type: CourseSection
+parent_uid: c88a7a36-f1d5-0d92-1f8c-175f64643ef4
 resourcetype: Image
 title: Lecture_6.jpg
 uid: c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52

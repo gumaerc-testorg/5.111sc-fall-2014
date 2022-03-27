@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
 parent_type: CourseSection
+parent_uid: 080258a7-91c4-feab-68e5-2d45cb5fd92e
 resourcetype: Image
 title: Lecture_20.jpg
 uid: 02988e8e-708f-abc3-3bed-af3c2e25da75

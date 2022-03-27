@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 30: Kinetics: Rate Laws'
 parent_type: CourseSection
+parent_uid: bd55059e-8b18-2feb-fb2b-c8aef5adde05
 resourcetype: Image
 title: Lecture_30.jpg
 uid: 4d0d6e8e-19f1-b51c-023f-3ec3c3468842

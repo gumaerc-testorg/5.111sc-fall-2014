@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 parent_type: CourseSection
+parent_uid: 31564d9d-89a9-9686-7912-40b6ed37ef6f
 resourcetype: Image
 title: Lecture_32.jpg
 uid: 41a28d07-1c10-0dbd-d44e-35c97eac2e15

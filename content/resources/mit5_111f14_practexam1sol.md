@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 542fb9a7-7582-8df9-e538-8d70d4c04741
 resourcetype: Document
 title: 5.111 F14 Practice Exam 1 Solutions
 uid: b08a6b75-02f8-3b0f-97c5-6d3b2d418b28

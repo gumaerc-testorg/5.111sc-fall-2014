@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 parent_type: CourseSection
+parent_uid: c8f99e55-bd17-66c4-505f-19e5b26af70c
 resourcetype: Image
 title: Lecture_31.jpg
 uid: 8eee3e7b-097b-f5c2-95ec-735e309fdc60

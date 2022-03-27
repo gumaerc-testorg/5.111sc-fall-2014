@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 542fb9a7-7582-8df9-e538-8d70d4c04741
 resourcetype: Document
 title: 5.111 F14 Exam 2 Solutions
 uid: e58def6b-3e15-2854-d110-6927d6bd65fb

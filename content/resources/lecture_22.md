@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 parent_type: CourseSection
+parent_uid: 3967bba5-a7b0-073a-cd9a-c713fa2d59eb
 resourcetype: Image
 title: Lecture_22.jpg
 uid: 127de415-cbe7-9d26-66a6-63b56de9407f

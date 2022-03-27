@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
+parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 resourcetype: Document
 title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
 uid: dba5af48-1c6a-48d4-cf0c-ba53044e46eb

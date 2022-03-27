@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 542fb9a7-7582-8df9-e538-8d70d4c04741
 resourcetype: Document
 title: 5.111 F14 Exam 3 Equation Sheet
 uid: 90772b2c-0e01-9022-ac71-4264af2afa22

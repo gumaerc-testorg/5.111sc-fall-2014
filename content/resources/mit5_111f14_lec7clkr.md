@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit I: The Atom'
 parent_type: CourseSection
+parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 resourcetype: Document
 title: 'Principles of Chemical Science, Clicker Questions for Lecture 7: Multielectron
   atoms'

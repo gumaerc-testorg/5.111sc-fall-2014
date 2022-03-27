@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 11: Lewis Structures: Breakdown of the Octet Rule'
 parent_type: CourseSection
+parent_uid: bbd6f3cb-d22b-a979-f3c5-3baa993e82b8
 resourcetype: Image
 title: Lecture_11.jpg
 uid: 191d5f0b-3806-4d6a-80d1-69d6c2020493

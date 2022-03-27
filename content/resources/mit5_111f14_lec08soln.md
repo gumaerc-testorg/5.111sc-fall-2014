@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit II: Chemical Bonding & Structure'
 parent_type: CourseSection
+parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 8: The Periodic Table
   and Periodic Trends'

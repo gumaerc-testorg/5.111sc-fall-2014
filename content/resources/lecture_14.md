@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 14: Valence Bond Theory and Hybridization'
 parent_type: CourseSection
+parent_uid: bc4e02be-0613-a6fc-db1f-e751834b8e16
 resourcetype: Image
 title: Lecture_14.jpg
 uid: cd86b306-35e5-7bac-7778-c7857150e68a

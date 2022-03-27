@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit V: Chemical Kinetics'
 parent_type: CourseSection
+parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 34: Kinetics: Catalysts'
 uid: cff92ec7-10de-d5cd-5255-ec744292f9a6

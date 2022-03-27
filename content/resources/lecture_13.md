@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 13: Molecular Orbital Theory'
 parent_type: CourseSection
+parent_uid: 0e6db317-91e1-3ca8-0e85-5c92186dafb0
 resourcetype: Image
 title: Lecture_13.jpg
 uid: 0decc4da-4730-2a5c-5305-1c6c79214350

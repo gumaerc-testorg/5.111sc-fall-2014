@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
+parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 resourcetype: Document
 title: 'Principles of Chemical Science, Clicker Questions for Lecture 28: Transition
   Metals: Crystal Field Theory Part I'

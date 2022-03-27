@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 34: Kinetics: Catalysts'
 parent_type: CourseSection
+parent_uid: 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3
 resourcetype: Image
 title: Lecture_34.jpg
 uid: eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd

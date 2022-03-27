@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 uid: d67e9fa2-ff59-92d5-7e3c-a98cb72df2ec
 video_files:

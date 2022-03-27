@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 33: Kinetics and Temperature'
 parent_type: CourseSection
+parent_uid: bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27
 resourcetype: Image
 title: Lecture_33.jpg
 uid: bf0340d1-f5d8-17e3-bca5-97b1ce92e410

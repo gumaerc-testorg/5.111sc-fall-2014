@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 7: Multi-electron Atoms'
 parent_type: CourseSection
+parent_uid: 3cbec0b6-342c-45e2-19db-b316c53f0274
 resourcetype: Image
 title: Lecture_7.jpg
 uid: 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1

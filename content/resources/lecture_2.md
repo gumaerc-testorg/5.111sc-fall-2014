@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 2: Atomic Structure'
 parent_type: CourseSection
+parent_uid: 5f132e2d-e0de-f588-3a91-12c82ff3e6ec
 resourcetype: Image
 title: Lecture_2.jpg
 uid: aafc786b-207b-da7d-3122-e4d57755caf5

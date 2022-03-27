@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 24: Acid-Base Titrations Part II'
 parent_type: CourseSection
+parent_uid: 92c821cc-7504-7b75-ec7b-50ab1516b1b6
 resourcetype: Image
 title: Lecture_24.jpg
 uid: ed156822-86b6-2727-bd7b-a26ef9e17d36

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
 uid: 6c9fdac5-28fc-89a7-0cdf-7682c8f50ff0
 video_files:

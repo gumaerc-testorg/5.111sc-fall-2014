@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
 parent_type: CourseSection
+parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 resourcetype: Document
 title: 'Principles of Chemical Science, Problems for Lecture 18: Introduction to Chemical
   Equilibrium'

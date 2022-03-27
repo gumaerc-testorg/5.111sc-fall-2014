@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit V: Chemical Kinetics'
 parent_type: CourseSection
+parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 resourcetype: Document
 title: 'Principles of Chemical Science, Solutions for Lecture 30: Kinetics: Rate Laws'
 uid: 8a8f2fe8-94ad-0909-bcfd-c88b88a7dead

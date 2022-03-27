@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Unit V: Chemical Kinetics'
 parent_type: CourseSection
+parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 resourcetype: Document
 title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 uid: cc02310e-5ecd-dd0c-1341-e7ea59da3f08

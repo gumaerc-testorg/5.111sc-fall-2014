@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 27: Introduction to Transition Metals'
 parent_type: CourseSection
+parent_uid: c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3
 resourcetype: Image
 title: Lecture_27.jpg
 uid: 06337701-e25b-8505-de81-64455c04c620

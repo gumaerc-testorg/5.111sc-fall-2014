@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
 parent_type: CourseSection
+parent_uid: 3d31835d-06e0-f144-b71e-ae67819fa795
 resourcetype: Image
 title: Lecture_25.jpg
 uid: edd4f83c-96c8-0e42-9689-e7209e9198f0

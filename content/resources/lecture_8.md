@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 8: The Periodic Table and Periodic Trends'
 parent_type: CourseSection
+parent_uid: 3ea46bd0-50d7-7305-ee1a-67bd41bfde89
 resourcetype: Image
 title: Lecture_8.jpg
 uid: 3b800837-5f7f-0653-af06-6f9934b82861

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 35: Applying Chemical Principles'
 parent_type: CourseSection
+parent_uid: cfdef97d-2484-c331-1143-7c192f705162
 resourcetype: Image
 title: Lecture_35.jpg
 uid: e6f283be-288a-8bf1-47c5-7e02f3d526d5

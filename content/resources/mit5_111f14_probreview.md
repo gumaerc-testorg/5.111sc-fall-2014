@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 1: The Importance of Chemical Principles'
 parent_type: CourseSection
+parent_uid: 2093fa03-8f0b-9e63-c680-49a3ed4867fd
 resourcetype: Document
 title: 'Principles of Chemical Science, Problems for Lecture 1: The Importance of
   Chemical Principles'
