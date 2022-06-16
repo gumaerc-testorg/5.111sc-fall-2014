@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "The idea that matter (and thus an electron) has both particle-like and\
+  \ wave-like properties is introduced in this session. It also covers the Schr\xF6\
+  dinger Equation."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
@@ -9,7 +12,7 @@ title: "Lecture 4: Wave-Particle Duality of Matter; Schr\xF6dinger Equation"
 uid: 6c42d420-7daa-f98f-42f3-cf4c8b25c652
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-3) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-5) »
+« {{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Previous" %}} | {{% resource_link 19bd276c-98fb-61bc-72af-22c0567e02a2 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +20,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 030c4501-67ae-4d83-deaa-71626be2bb92 >}}) 
+{{< resource 030c4501-67ae-4d83-deaa-71626be2bb92 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,12 +46,12 @@ The idea that matter (and thus an electron) has both particle-like and wave-like
 Lecture Notes
 -------------
 
-[Notes for Lecture 4 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec4)
+{{% resource_link dcf6ace1-49ab-7a68-3390-398a889c740e "Notes for Lecture 4 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 4 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec4clkr)
+{{% resource_link 5a655808-8911-c6df-b671-ed9e0b136d54 "Lecture 4 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -110,8 +113,8 @@ Darcy Wanger describes her realization that science is not something “done—i
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 4 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec04prob)
+{{% resource_link 08af1f5c-add2-65a8-ef87-f50b95d6ac8a "Problems for Lecture 4 (PDF)" %}}
 
-[Solutions for Lecture 4 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec04soln)
+{{% resource_link 2cad579f-fdfb-2a28-0a6e-2e574b2429c7 "Solutions for Lecture 4 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-3) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-5) »
+« {{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Previous" %}} | {{% resource_link 19bd276c-98fb-61bc-72af-22c0567e02a2 "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this session, students learn how to predict reaction mechanisms using
+  the steady-state approximation as well as information about fast and slow steps.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
@@ -9,7 +11,7 @@ title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 uid: 31564d9d-89a9-9686-7912-40b6ed37ef6f
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-31) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-33) »
+« {{% resource_link c8f99e55-bd17-66c4-505f-19e5b26af70c "Previous" %}} | {{% resource_link bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 41a28d07-1c10-0dbd-d44e-35c97eac2e15 >}}) 
+{{< resource 41a28d07-1c10-0dbd-d44e-35c97eac2e15 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,12 +43,12 @@ Chemists experimentally determine rate laws and then use that experimental infor
 Lecture Notes
 -------------
 
-[Notes for Lecture 32 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture32)
+{{% resource_link cc02310e-5ecd-dd0c-1341-e7ea59da3f08 "Notes for Lecture 32 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 32 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec32clkr)
+{{% resource_link 75dc4ea8-6ecb-f485-fc4d-2bbc07134071 "Lecture 32 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -97,8 +99,8 @@ Section 13.10
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 32 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec32prob)
+{{% resource_link 18db0db2-8033-12f3-ba64-f702c0c06786 "Problems for Lecture 32 (PDF)" %}}
 
-[Solutions for Lecture 32 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec32soln)
+{{% resource_link 49eebcda-d7bd-369b-5c72-b39c8ddee4e6 "Solutions for Lecture 32 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-31) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-33) »
+« {{% resource_link c8f99e55-bd17-66c4-505f-19e5b26af70c "Previous" %}} | {{% resource_link bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27 "Next" %}} »

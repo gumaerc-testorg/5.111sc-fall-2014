@@ -26,3 +26,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Using liquid nitrogen, we observe that lowering the temperature slows reaction rates. The concept of activation energy is introduced; there is always some energy needed when two molecules come together that allows them to react. Only molecules that have this critical energy, and can overcome this activation energy barrier, will react and go on to product. Lower temperature means that fewer molecules with have this critical amount of energy.
 
 **Instructor:** Catherine Drennan
+
+
+

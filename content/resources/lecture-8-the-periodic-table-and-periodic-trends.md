@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 8: The Periodic Table and Periodic Trends'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: The periodic table is to chemistry like the laws of motion are to physics. In this lecture, we discover the secrets of the periodic table and meet the elements.
 
 **Instructor:** Catherine Drennan
+
+
+

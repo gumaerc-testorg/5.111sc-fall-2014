@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Periodic Table; Ionic and
   Covalent Bonds.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 9: Periodi
   Table; Ionic and Covalent Bonds'
 uid: 3494ce8b-12fe-8b0f-a1c8-4433eebdf175
 ---
+This resource contains information regarding Periodic Table; Ionic and Covalent Bonds.
+

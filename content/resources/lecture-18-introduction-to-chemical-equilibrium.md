@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 18: Introduction to Chemical Equilibrium'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Reactions reach chemical equilibrium when the rate of the forward reaction equals the rate of the reverse reaction. In this lecture, we discuss the nature of chemical equilibrium and of the chemical equilibrium constant. We start to consider how external factors can "push" the equilibrium in one direction or the other. Physicist and Chemist Nozomi Ando provides an example of why chemical equilibrium is important in living organisms.
 
 **Instructor:** Catherine Drennan
+
+
+

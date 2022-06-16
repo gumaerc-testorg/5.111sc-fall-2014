@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 34: Kinetics: Catalysts'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A catalyst is a substrate that speeds up a reaction without being consumed. Catalysts lower the activation energy barrier for a reaction without changing the equilibrium constant. In this lecture, catalysts of different types are introduced, including Nature's catalysts, enzymes. We also hear from Chemist Jingnan Lu about why knowledge of kinetics is important for the development of biofuels.
 
 **Instructor:** Catherine Drennan
+
+
+

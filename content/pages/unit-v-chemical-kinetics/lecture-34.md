@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this session, catalysts of different types are introduced, including\
+  \ nature\u2019s catalysts, enzymes."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
@@ -9,7 +11,7 @@ title: 'Lecture 34: Kinetics: Catalysts'
 uid: 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-33) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-35) »
+« {{% resource_link bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27 "Previous" %}} | {{% resource_link cfdef97d-2484-c331-1143-7c192f705162 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd >}}) 
+{{< resource eaea9b90-9de3-7c8f-fd2d-b1ed6bd199cd >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,12 +45,12 @@ A catalyst is a substrate that speeds up a reaction without being consumed. Cata
 Lecture Notes
 -------------
 
-[Notes for Lecture 34 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture34)
+{{% resource_link db306ff0-886a-2363-8832-87c84df23161 "Notes for Lecture 34 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 34 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec34clkr)
+{{% resource_link ada14045-6d0c-2622-8965-3dea47294ac4 "Lecture 34 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -110,8 +112,8 @@ Jingnan Lu describes how she overcame the challenge of learning English as a tee
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 34 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec34prob)
+{{% resource_link 064b8f80-b9eb-7abe-d04c-a4029152de7e "Problems for Lecture 34 (PDF)" %}}
 
-[Solutions for Lecture 34 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec34soln)
+{{% resource_link cff92ec7-10de-d5cd-5255-ec744292f9a6 "Solutions for Lecture 34 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-33) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-35) »
+« {{% resource_link bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27 "Previous" %}} | {{% resource_link cfdef97d-2484-c331-1143-7c192f705162 "Next" %}} »

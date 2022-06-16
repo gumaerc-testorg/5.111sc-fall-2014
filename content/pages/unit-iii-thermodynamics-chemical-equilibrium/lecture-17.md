@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session is the third of three lectures on thermodynamics. We use
+  thermodynamics to explain some basic observations made when cooking.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
@@ -9,7 +11,7 @@ title: 'Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?'
 uid: 74d44776-ec12-7476-168b-e0f074e4269b
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-16) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-18) »
+« {{% resource_link 4161d4d2-b7e6-4498-f997-dfb3b69eca3c "Previous" %}} | {{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 4e39e3da-6e9d-2288-e23f-1bb3fc0179f6 >}}) 
+{{< resource 4e39e3da-6e9d-2288-e23f-1bb3fc0179f6 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -45,12 +47,12 @@ Chemistry is part of everyday life whether we realize it or not. In this lecture
 Lecture Notes
 -------------
 
-[Notes for Lecture 17 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec17)
+{{% resource_link a2a2199a-65af-c91f-a9b6-abdb6e66cf17 "Notes for Lecture 17 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 17 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec17clkr)
+{{% resource_link bba3789e-e52a-585e-987b-b7aaf519e551 "Lecture 17 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -100,8 +102,8 @@ Lourdes Alemán, a Cuban-American, shares her greatest source of inspiration thr
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 17 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec17prob)
+{{% resource_link accc1cb6-1f9f-250f-66f6-7c4a8a1d59ea "Problems for Lecture 17 (PDF)" %}}
 
-[Solutions for Lecture 17 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec17soln)
+{{% resource_link 7562819c-2017-49c2-83de-b0e457fefd66 "Solutions for Lecture 17 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-16) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-18) »
+« {{% resource_link 4161d4d2-b7e6-4498-f997-dfb3b69eca3c "Previous" %}} | {{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Next" %}} »

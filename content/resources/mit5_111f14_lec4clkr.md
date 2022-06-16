@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding Wave-particle duality of\
   \ matter; Schr\xF6dinger equation."
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/5a6558088911c6dfb671ed9e0b136d54_MIT5_111F14_Lec4Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5a6558088911c6dfb671ed9e0b136d54_MIT5_111F14_Lec4Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: "Principles of Chemical Science, Clicker Questions for Lecture 4: Wave-pa
   \ duality of matter; Schr\xF6dinger equation"
 uid: 5a655808-8911-c6df-b671-ed9e0b136d54
 ---
+This resource contains information regarding Wave-particle duality of matter; Schrödinger equation.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 11 solution.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/7c4822d7eb6e1a39d725396ad1bbafa4_MIT5_111F14_Lec11Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/7c4822d7eb6e1a39d725396ad1bbafa4_MIT5_111F14_Lec11Soln.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ title: 'Principles of Chemical Science, Solutions for Lecture 11: Lewis Structur
   Breakdown of the Octet Rule'
 uid: 7c4822d7-eb6e-1a39-d725-396ad1bbafa4
 ---
+This resource contains information regarding lecture 11 solution.
+

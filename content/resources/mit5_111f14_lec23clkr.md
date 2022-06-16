@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Acid-Base Titrations Part
   I.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/a1cbfef9ed48bc44aaa3f25463aae2b6_MIT5_111F14_Lec23Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/a1cbfef9ed48bc44aaa3f25463aae2b6_MIT5_111F14_Lec23Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 23: Acid-B
   Titrations Part I'
 uid: a1cbfef9-ed48-bc44-aaa3-f25463aae2b6
 ---
+This resource contains information regarding Acid-Base Titrations Part I.
+

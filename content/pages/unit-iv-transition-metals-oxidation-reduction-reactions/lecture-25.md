@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this session, the basic principles of redox reactions are introduced.
+  It also reviews electrochemical cells, such as consumer batteries.    '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
@@ -9,7 +11,7 @@ title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
 uid: 3d31835d-06e0-f144-b71e-ae67819fa795
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26) »
+« {{% resource_link 89863654-3b84-26a3-a530-91cb22239ee9 "Previous" %}} | {{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file edd4f83c-96c8-0e42-9689-e7209e9198f0 >}}) 
+{{< resource edd4f83c-96c8-0e42-9689-e7209e9198f0 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,12 +45,12 @@ Redox reactions are a major class of chemical reactions in which there is an exc
 Lecture Notes
 -------------
 
-[Notes for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture25)
+{{% resource_link 7bfbd766-cbfe-78a2-cf6b-9a92b7e9b882 "Notes for Lecture 25 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 25 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec25clkr)
+{{% resource_link f0a331b2-c7f9-2529-2102-8362eb487287 "Lecture 25 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -87,8 +89,8 @@ Sections 12.3–12.12
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec25prob)
+{{% resource_link 354cccf1-e7b4-d7ca-8259-b75e8139e005 "Problems for Lecture 25 (PDF)" %}}
 
-[Solutions for Lecture 25 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec25soln)
+{{% resource_link 589cf02a-f92f-c6ce-649b-9268bcb2d359 "Solutions for Lecture 25 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26) »
+« {{% resource_link 89863654-3b84-26a3-a530-91cb22239ee9 "Previous" %}} | {{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Next" %}} »

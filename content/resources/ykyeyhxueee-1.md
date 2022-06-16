@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/17f6f94e131363b64896634f206b4d02_YkYeYhXUeEE.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/17f6f94e131363b64896634f206b4d02_YkYeYhXUeEE.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

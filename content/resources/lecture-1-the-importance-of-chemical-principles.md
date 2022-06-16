@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 1: The Importance of Chemical Principles'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Professor Cathy Drennan introduces this series of lectures about basic chemical principles. She describes her path to becoming a chemist and reveals her first impression of the discipline of chemistry. Goals for students of this material are presented as well as some examples about how real world problems can be solved through the applications of chemical principles. Teaching assistants for the course are introduced.
 
 **Instructor:** Catherine Drennan
+
+
+

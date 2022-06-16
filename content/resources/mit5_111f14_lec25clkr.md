@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Oxidation-Reduction and
   Electrochemical Cells.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/f0a331b2c7f9252921028362eb487287_MIT5_111F14_Lec25Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f0a331b2c7f9252921028362eb487287_MIT5_111F14_Lec25Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 25: Oxidat
   and Electrochemical Cells'
 uid: f0a331b2-c7f9-2529-2102-8362eb487287
 ---
+This resource contains information regarding Oxidation-Reduction and Electrochemical Cells.
+

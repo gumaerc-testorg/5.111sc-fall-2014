@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

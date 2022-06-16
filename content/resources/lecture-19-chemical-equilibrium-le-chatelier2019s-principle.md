@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: "Lecture 19: Chemical Equilibrium: Le Ch\xE2telier\u2019s Principle"
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A system in equilibrium that is subjected to a stress tends to respond in a way that minimizes that stress. In this lecture, viewers will learn about chemical reactions but will also learn some important life lessons.
 
 **Instructor:** Catherine Drennan
+
+
+

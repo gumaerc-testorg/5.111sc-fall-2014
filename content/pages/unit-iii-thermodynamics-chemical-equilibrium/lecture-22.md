@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session continues discussion of acid-base equilibrium. It reviews
+  salt solutions and buffers.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
@@ -9,7 +11,7 @@ title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 uid: 3967bba5-a7b0-073a-cd9a-c713fa2d59eb
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-21) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-23) »
+« {{% resource_link 1f4d2b01-7442-13a2-4431-1f67ec24ecae "Previous" %}} | {{% resource_link 4d30b63d-cd60-89ec-bffc-fd57c80b1766 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 127de415-cbe7-9d26-66a6-63b56de9407f >}}) 
+{{< resource 127de415-cbe7-9d26-66a6-63b56de9407f >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,12 +44,12 @@ A buffer helps to maintain a constant pH. Our blood has a natural buffering syst
 Lecture Notes
 -------------
 
-[Notes for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec22)
+{{% resource_link 17db1744-7116-44d3-2c46-d87d4b86b3d8 "Notes for Lecture 22 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 22 Clicker Questions (PDF - 1.1MB)]({{< baseurl >}}/resources/mit5_111f14_lec22clkr)
+{{% resource_link d7bbe360-0609-30e9-ec0e-6b680018089e "Lecture 22 Clicker Questions (PDF - 1.1MB)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -98,8 +100,8 @@ Sections 11.1–11.3
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec22prob)
+{{% resource_link f9d6659d-c6a2-7d60-c322-5d3a4218382e "Problems for Lecture 22 (PDF)" %}}
 
-[Solutions for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec22soln)
+{{% resource_link a90cb5d1-0fb7-cd54-96b5-83d40bb997b7 "Solutions for Lecture 22 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-21) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-23) »
+« {{% resource_link 1f4d2b01-7442-13a2-4431-1f67ec24ecae "Previous" %}} | {{% resource_link 4d30b63d-cd60-89ec-bffc-fd57c80b1766 "Next" %}} »

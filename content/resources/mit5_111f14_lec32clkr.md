@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Kinetics: Reaction Mechanisms.'
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/75dc4ea86ecbf485fc4d2bbc07134071_MIT5_111F14_Lec32Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/75dc4ea86ecbf485fc4d2bbc07134071_MIT5_111F14_Lec32Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 32: Kineti
   Reaction Mechanisms'
 uid: 75dc4ea8-6ecb-f485-fc4d-2bbc07134071
 ---
+This resource contains information regarding Kinetics: Reaction Mechanisms.
+

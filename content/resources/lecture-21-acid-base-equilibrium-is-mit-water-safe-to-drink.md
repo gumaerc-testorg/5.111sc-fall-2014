@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: If the pH of water was 2, would you drink it? What about if the water had a pH of 11? The lecture introduces the concept of pH and we measure the pH of various common solutions.
 
 **Instructor:** Catherine Drennan
+
+
+

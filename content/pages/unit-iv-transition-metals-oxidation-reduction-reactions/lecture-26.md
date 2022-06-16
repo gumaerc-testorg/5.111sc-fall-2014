@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session is an introduction to agents of oxidation and agents of
+  reduction.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
@@ -9,7 +11,7 @@ title: 'Lecture 26: Chemical and Biological Oxidations'
 uid: 177e7d2c-285d-8b80-4e37-ccce474cee78
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27) »
+« {{% resource_link 3d31835d-06e0-f144-b71e-ae67819fa795 "Previous" %}} | {{% resource_link c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 3b03d54d-9e22-6ece-0930-e783d1d2b15c >}}) 
+{{< resource 3b03d54d-9e22-6ece-0930-e783d1d2b15c >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,12 +45,12 @@ Viewers are introduced to agents of oxidation and agents of reduction. Are oxidi
 Lecture Notes
 -------------
 
-[Notes for Lecture 26 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture26)
+{{% resource_link 6b82fc0c-bc1d-cf5e-58ed-968b6d8b1882 "Notes for Lecture 26 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 26 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec26clkr)
+{{% resource_link 69408f38-994e-9145-f9cf-cc5d7683dc67 "Lecture 26 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -98,8 +100,8 @@ John Essigmann describes how an early industry experience doing real science pus
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 26 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec26prob)
+{{% resource_link 6f3a939a-6c1b-8f38-9f84-fed7d3598ef4 "Problems for Lecture 26 (PDF)" %}}
 
-[Solutions for Lecture 26 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec26soln)
+{{% resource_link 629c6594-3b49-0556-0ca6-08a57669cb54 "Solutions for Lecture 26 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27) »
+« {{% resource_link 3d31835d-06e0-f144-b71e-ae67819fa795 "Previous" %}} | {{% resource_link c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3 "Next" %}} »

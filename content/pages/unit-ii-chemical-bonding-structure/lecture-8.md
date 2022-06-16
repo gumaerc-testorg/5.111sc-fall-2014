@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session reviews periodic table and periodic trends.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
@@ -9,7 +10,7 @@ title: 'Lecture 8: The Periodic Table and Periodic Trends'
 uid: 3ea46bd0-50d7-7305-ee1a-67bd41bfde89
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-9) »
+« {{% resource_link 89ed642b-2203-7e56-7593-c80ff35cb3f4 "Previous" %}} | {{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +18,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 3b800837-5f7f-0653-af06-6f9934b82861 >}}) 
+{{< resource 3b800837-5f7f-0653-af06-6f9934b82861 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,12 +43,12 @@ The periodic table is to chemistry like the laws of motion are to physics. In th
 Lecture Notes
 -------------
 
-[Notes for Lecture 8 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec8)
+{{% resource_link 0e1c7724-b4f3-47c8-1afc-981e53002d3c "Notes for Lecture 8 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 8 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec8clkr)
+{{% resource_link ddad42bb-c60e-c832-07a5-e9026e4bbb37 "Lecture 8 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -146,13 +147,13 @@ Section 1.20
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 8 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec08prob)
+{{% resource_link bdbb0bb5-e8d4-30fb-a8f5-9a23d121bb8f "Problems for Lecture 8 (PDF)" %}}
 
-[Solutions for Lecture 8 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec08soln)
+{{% resource_link 864611ed-ace2-fea2-2a1a-88ac9f73b7bd "Solutions for Lecture 8 (PDF)" %}}
 
 Acknowledgement
 ---------------
 
 Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-9) »
+« {{% resource_link 89ed642b-2203-7e56-7593-c80ff35cb3f4 "Previous" %}} | {{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Next" %}} »

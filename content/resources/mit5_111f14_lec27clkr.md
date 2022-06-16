@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Introduction to Transition
   Metals.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/284780d6ca959ebb88bc6500f14d2111_MIT5_111F14_Lec27Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/284780d6ca959ebb88bc6500f14d2111_MIT5_111F14_Lec27Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 27: Introd
   to transition metals'
 uid: 284780d6-ca95-9ebb-88bc-6500f14d2111
 ---
+This resource contains information regarding Introduction to Transition Metals.
+

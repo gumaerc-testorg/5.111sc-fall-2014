@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session introduces the the nature of chemical equilibrium and of
+  the chemical equilibrium constant.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
@@ -9,7 +11,7 @@ title: 'Lecture 18: Introduction to Chemical Equilibrium'
 uid: 76a566c6-d12e-b625-ae98-e279e812efbd
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-17) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-19) »
+« {{% resource_link 74d44776-ec12-7476-168b-e0f074e4269b "Previous" %}} | {{% resource_link 06795698-54cc-cdb3-a6c7-13fa72200306 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file a167b211-a7bf-de22-3d91-3d2fd32d6fd0 >}}) 
+{{< resource a167b211-a7bf-de22-3d91-3d2fd32d6fd0 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,12 +46,12 @@ Reactions reach chemical equilibrium when the rate of the forward reaction equal
 Lecture Notes
 -------------
 
-[Notes for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec18)
+{{% resource_link ec12f084-d867-a5e5-532b-12ee99bdc767 "Notes for Lecture 18 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 18 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec18clkr)
+{{% resource_link dc2c3195-4cfa-c487-a597-17849a44f10f "Lecture 18 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -99,8 +101,8 @@ Nozomi Ando, a self-described artist and comic book lover, describes how her tra
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec18prob)
+{{% resource_link 517e9ef9-c38e-a95d-3c03-876dc53a44c9 "Problems for Lecture 18 (PDF)" %}}
 
-[Solutions for Lecture 18 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec18soln)
+{{% resource_link 4d0d7db1-079f-4fee-2bdd-58d95033f36d "Solutions for Lecture 18 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-17) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-19) »
+« {{% resource_link 74d44776-ec12-7476-168b-e0f074e4269b "Previous" %}} | {{% resource_link 06795698-54cc-cdb3-a6c7-13fa72200306 "Next" %}} »

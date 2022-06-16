@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 11: Lewis Structures: Breakdown of the Octet Rule'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Radicals, expanded octets, and more, in this lecture about Lewis structures.
 
 **Instructor:** Catherine Drennan
+
+
+

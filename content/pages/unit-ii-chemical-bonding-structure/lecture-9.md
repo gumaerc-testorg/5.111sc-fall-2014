@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this session, the discussion of the periodic table is concluded.  It
+  then introduces types of bonds that are formed between elements, including ionic
+  and covalent bonds.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
@@ -9,7 +12,7 @@ title: 'Lecture 9: Periodic Table; Ionic and Covalent Bonds'
 uid: 1defa0f1-c01b-a42e-057e-92fc7b1dec88
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-8) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-10) »
+« {{% resource_link 3ea46bd0-50d7-7305-ee1a-67bd41bfde89 "Previous" %}} | {{% resource_link 5f89679f-aa0f-ab38-a4ec-a4a166b9093f "Next" %}} »
 
 Topics
 ------
@@ -17,7 +20,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 30c821c0-1665-93da-a6e1-eacf96c4abb3 >}}) 
+{{< resource 30c821c0-1665-93da-a6e1-eacf96c4abb3 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -47,12 +50,12 @@ In this lecture, we complete the discussion of the periodic table and start to c
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9)
+{{% resource_link c7892dbb-387c-db86-bc27-d4dbef21a7cb "Notes for Lecture 9 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 9 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec9clkr)
+{{% resource_link 3494ce8b-12fe-8b0f-a1c8-4433eebdf175 "Lecture 9 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -126,13 +129,13 @@ Kateryna Kozyrytska, a female biochemist born in Ukraine, describes how as a sci
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec09prob)
+{{% resource_link 04e6d703-494d-ded5-582b-4b3b30a457b9 "Problems for Lecture 9 (PDF)" %}}
 
-[Solutions for Lecture 9 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec09soln)
+{{% resource_link 488ce51f-9e12-fdbf-a09e-87faa7cc326a "Solutions for Lecture 9 (PDF)" %}}
 
 Acknowledgement
 ---------------
 
 “[Dogs Teaching Chemistry — Chemical Bonds](https://www.youtube.com/watch?v=_M9khs87xQ8)” courtesy of Lauren Girard. Used with permission.
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-8) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-10) »
+« {{% resource_link 3ea46bd0-50d7-7305-ee1a-67bd41bfde89 "Previous" %}} | {{% resource_link 5f89679f-aa0f-ab38-a4ec-a4a166b9093f "Next" %}} »

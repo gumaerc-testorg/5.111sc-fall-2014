@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session consider atoms with more than one electron.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
@@ -9,7 +10,7 @@ title: 'Lecture 7: Multi-electron Atoms'
 uid: 3cbec0b6-342c-45e2-19db-b316c53f0274
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-6) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure) »
+« {{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Previous" %}} | {{% resource_link 89ed642b-2203-7e56-7593-c80ff35cb3f4 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +18,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1 >}}) 
+{{< resource 8bab447c-53bd-0e6a-a15b-48f68a9ca9a1 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,12 +43,12 @@ After focusing on the hydrogen atom for several lectures, the course moves on to
 Lecture Notes
 -------------
 
-[Notes for Lecture 7 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec7)
+{{% resource_link 35926f35-3f18-c1e7-2787-02f3eb1c9060 "Notes for Lecture 7 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 7 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec7clkr)
+{{% resource_link 3731c1e6-e668-83c2-d246-d132f91c44b2 "Lecture 7 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -98,8 +99,8 @@ Section 1.13
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 7 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec07prob)
+{{% resource_link e2ce5c27-3ca7-f080-3d35-d8cda4f85afb "Problems for Lecture 7 (PDF)" %}}
 
-[Solutions for Lecture 7 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec07soln)
+{{% resource_link 83090918-16c0-e05d-2cbe-81ad73a39634 "Solutions for Lecture 7 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-6) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure) »
+« {{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Previous" %}} | {{% resource_link 89ed642b-2203-7e56-7593-c80ff35cb3f4 "Next" %}} »

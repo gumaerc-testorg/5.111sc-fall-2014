@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 15: Thermodynamics: Bond and Reaction Enthalpies'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Thermodynamics is key to understanding the reactivity of molecules and compounds. In this first of three lectures on thermodynamics, viewers are introduced to ∆H, and asked to consider how much heat it will take to break one type of molecular bond versus another. Viewers are also asked whether a particular chemical reaction will release heat or absorb heat.
 
 **Instructor:** Catherine Drennan
+
+
+

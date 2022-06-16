@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 25 problem.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ title: 'Principles of Chemical Science, Problems for Lecture 25: Oxidation-Reduc
   and Electrochemical Cells'
 uid: 354cccf1-e7b4-d7ca-8259-b75e8139e005
 ---
+This resource contains information regarding lecture 25 problem.
+

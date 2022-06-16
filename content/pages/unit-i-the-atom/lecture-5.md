@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this session on hydrogen atom energy levels, the visible spectrum
+  produced by the hydrogen atom is discussed.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
@@ -9,7 +11,7 @@ title: 'Lecture 5: Hydrogen Atom Energy Levels'
 uid: 19bd276c-98fb-61bc-72af-22c0567e02a2
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-4) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-6) »
+« {{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Previous" %}} | {{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 70f20273-f28b-4302-35bf-d08189ec3cbd >}}) 
+{{< resource 70f20273-f28b-4302-35bf-d08189ec3cbd >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,12 +46,12 @@ In this lecture, we look at the visible spectrum produced by the hydrogen atom. 
 Lecture Notes
 -------------
 
-[Notes for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec5)
+{{% resource_link 6a9e6b5f-f06c-73aa-b0f7-a9389e10416b "Notes for Lecture 5 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 5 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec5clkr)
+{{% resource_link dc1caf61-4e77-c2e6-1a11-a05333c7655e "Lecture 5 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -112,8 +114,8 @@ Section 1.8
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec05prob)
+{{% resource_link eb2cf067-6508-363a-9238-fce221e1eacf "Problems for Lecture 5 (PDF)" %}}
 
-[Solutions for Lecture 5 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec05soln)
+{{% resource_link 6596d9ad-b42c-b4d9-7269-3f0d9da93132 "Solutions for Lecture 5 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-4) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-6) »
+« {{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Previous" %}} | {{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Next" %}} »

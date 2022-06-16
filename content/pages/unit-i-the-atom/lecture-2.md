@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Atomic structure is the focus of this session, including a review of
+  the famous backscattering experiment of Rutherford.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
@@ -9,7 +11,7 @@ title: 'Lecture 2: Atomic Structure'
 uid: 5f132e2d-e0de-f588-3a91-12c82ff3e6ec
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-1) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-3) »
+« {{% resource_link 2093fa03-8f0b-9e63-c680-49a3ed4867fd "Previous" %}} | {{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file aafc786b-207b-da7d-3122-e4d57755caf5 >}}) 
+{{< resource aafc786b-207b-da7d-3122-e4d57755caf5 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,12 +44,12 @@ The backscattering experiment of Rutherford is recreated in the classroom settin
 Lecture Notes
 -------------
 
-[Notes for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec2)
+{{% resource_link e7edbbcf-5e52-214a-f28f-11743c6f5cc4 "Notes for Lecture 2 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 2 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec2clkr)
+{{% resource_link c9fae6c1-61db-1c8c-1651-85fc484f7924 "Lecture 2 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -110,8 +112,8 @@ Section 1.1: pp. 1–3
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec02prob)
+{{% resource_link 4d487aaa-0d1e-afee-850e-1ce729120dfa "Problems for Lecture 2 (PDF)" %}}
 
-[Solutions for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec02soln)
+{{% resource_link 60127478-97b2-9867-a463-fe6f2c99958f "Solutions for Lecture 2 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-1) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-3) »
+« {{% resource_link 2093fa03-8f0b-9e63-c680-49a3ed4867fd "Previous" %}} | {{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Next" %}} »

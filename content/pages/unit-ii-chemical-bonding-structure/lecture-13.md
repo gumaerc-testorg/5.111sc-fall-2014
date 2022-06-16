@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This session on molecular orbital theory explains why some atoms readily\
+  \ form bonds with each other and other atoms don\u2019t."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
@@ -9,7 +11,7 @@ title: 'Lecture 13: Molecular Orbital Theory'
 uid: 0e6db317-91e1-3ca8-0e85-5c92186dafb0
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-12) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-14) »
+« {{% resource_link 657cf625-0ea3-965b-7507-5d66ee3cb607 "Previous" %}} | {{% resource_link bc4e02be-0613-a6fc-db1f-e751834b8e16 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 0decc4da-4730-2a5c-5305-1c6c79214350 >}}) 
+{{< resource 0decc4da-4730-2a5c-5305-1c6c79214350 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,12 +46,12 @@ Why do some atoms readily form bonds with each other and other atoms don’t? Us
 Lecture Notes
 -------------
 
-[Notes for Lecture 13 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec13)
+{{% resource_link bceb8936-7a29-24ea-b97d-cb476cec369e "Notes for Lecture 13 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 13 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec13clkr)
+{{% resource_link 020b2e34-9c43-14db-63b9-794c924786de "Lecture 13 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -100,8 +102,8 @@ Section 3.9–3.11
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 13 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec13prob)
+{{% resource_link 18185eaa-518b-ecea-ed14-32463ac3928e "Problems for Lecture 13 (PDF)" %}}
 
-[Solutions for Lecture 13 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec13soln)
+{{% resource_link 901bb322-5379-643b-4724-190f11a1c42d "Solutions for Lecture 13 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-12) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-14) »
+« {{% resource_link 657cf625-0ea3-965b-7507-5d66ee3cb607 "Previous" %}} | {{% resource_link bc4e02be-0613-a6fc-db1f-e751834b8e16 "Next" %}} »

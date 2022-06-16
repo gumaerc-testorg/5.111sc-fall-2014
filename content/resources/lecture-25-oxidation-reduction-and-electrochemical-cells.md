@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Redox reactions are a major class of chemical reactions in which there is an exchange of electrons from one species to another. In this lecture, the basic principles of redox reactions are introduced. If you want to design the next greatest battery to power your favorite electronic device, you won't want to miss this lecture.
 
 **Instructor:** Catherine Drennan
+
+
+

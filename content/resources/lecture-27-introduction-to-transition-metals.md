@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 27: Introduction to Transition Metals'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A fundamental property of d-block metals (aka transition metals) is that they are predisposed to form coordination complexes, which have a metal in the middle that is surrounded by ions or atoms (aka ligands). These coordination complexes have special properties, which are described in detail in lectures 28 and 29. We also hear from Chemist Sarah Bowman about the importance of the d-block metal nickel.
 
 **Instructor:** Catherine Drennan
+
+
+

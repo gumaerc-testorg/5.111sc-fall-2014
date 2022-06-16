@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This session continues discussion of chemical equilibrium with a focus\
+  \ on Le Ch\xE2telier\u2019s Principle, also known as The Equilibrium Law."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
@@ -9,7 +11,7 @@ title: "Lecture 19: Chemical Equilibrium: Le Ch\xE2telier\u2019s Principle"
 uid: 06795698-54cc-cdb3-a6c7-13fa72200306
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-18) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-20) »
+« {{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Previous" %}} | {{% resource_link 080258a7-91c4-feab-68e5-2d45cb5fd92e "Next" %}} »
 
 Topics
 ------
@@ -17,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 7458e1f2-81f1-81a5-ba12-5cef04bc45fe >}}) 
+{{< resource 7458e1f2-81f1-81a5-ba12-5cef04bc45fe >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -45,12 +47,12 @@ A system in equilibrium that is subjected to a stress tends to respond in a way 
 Lecture Notes
 -------------
 
-[Notes for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec19)
+{{% resource_link e583cdf6-c632-35b1-9125-e0ec5fa8dfbf "Notes for Lecture 19 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 19 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec19clkr)
+{{% resource_link 3bb5e77e-6223-96ce-8436-1562f90177de "Lecture 19 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -89,13 +91,13 @@ Sections 9.4–9.5
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec19prob)
+{{% resource_link ed747195-1749-049a-233a-66ef5a251831 "Problems for Lecture 19 (PDF)" %}}
 
-[Solutions for Lecture 19 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec19soln)
+{{% resource_link ef503c9b-bca7-56d5-3f18-f206b099a792 "Solutions for Lecture 19 (PDF)" %}}
 
 Acknowledgement
 ---------------
 
 “[Chemists Know](https://youtu.be/iM_I6rtIgn0)” courtesy of Rachel Martin, Eric Potoma, and Gianmarc Grazioli of the [UC Irvine Department of Chemistry](https://www.chem.uci.edu/). Used with permission.
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-18) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-20) »
+« {{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Previous" %}} | {{% resource_link 080258a7-91c4-feab-68e5-2d45cb5fd92e "Next" %}} »

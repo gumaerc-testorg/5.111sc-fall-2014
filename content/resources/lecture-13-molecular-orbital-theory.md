@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 13: Molecular Orbital Theory'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Why do some atoms readily form bonds with each other and other atoms don't? Using molecular orbital theory, we can rationalize why molecular hydrogen is an abundant molecule whereas molecular helium is not. If you want to power your starship with dilithium crystals, you should watch this lecture.
 
 **Instructor:** Catherine Drennan
+
+
+

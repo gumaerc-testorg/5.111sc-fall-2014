@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Molecular Orbital Theory.
-file: /media/courses/5-111sc-principles-of-chemical-science-fall-2014/020b2e349c4314db63b9794c924786de_MIT5_111F14_Lec13Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/020b2e349c4314db63b9794c924786de_MIT5_111F14_Lec13Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 13: Molecu
   orbital theory'
 uid: 020b2e34-9c43-14db-63b9-794c924786de
 ---
+This resource contains information regarding Molecular Orbital Theory.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This session introduces Lewis structures and how to write them.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
@@ -9,7 +10,7 @@ title: 'Lecture 10: Introduction to Lewis Structures'
 uid: 5f89679f-aa0f-ab38-a4ec-a4a166b9093f
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-9) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-11) »
+« {{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Previous" %}} | {{% resource_link bbd6f3cb-d22b-a979-f3c5-3baa993e82b8 "Next" %}} »
 
 Topics
 ------
@@ -17,7 +18,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file f79945bf-eea4-7ad4-63e2-a7f0b9b07a34 >}}) 
+{{< resource f79945bf-eea4-7ad4-63e2-a7f0b9b07a34 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,12 +44,12 @@ Lewis structures are simplistic views of molecular structure. They are based on 
 Lecture Notes
 -------------
 
-[Notes for Lecture 10 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec10)
+{{% resource_link 3549685d-4507-73a0-66a7-16832634203f "Notes for Lecture 10 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 10 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec10clkr)
+{{% resource_link 24dc37bc-0c1d-fb97-3de6-38a443503003 "Lecture 10 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -87,8 +88,8 @@ Section 2.5–2.8
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 10 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec10prob)
+{{% resource_link abee91f1-d2ff-ddbb-e412-7cd56c22ddf4 "Problems for Lecture 10 (PDF)" %}}
 
-[Solutions for Lecture 10 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec10soln)
+{{% resource_link b381a9a1-3761-c951-237b-14b96a4cd59a "Solutions for Lecture 10 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-9) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-11) »
+« {{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Previous" %}} | {{% resource_link bbd6f3cb-d22b-a979-f3c5-3baa993e82b8 "Next" %}} »

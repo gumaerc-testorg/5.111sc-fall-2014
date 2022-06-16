@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 3: Wave-Particle Duality of Light'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: The idea that light is both a wave and a particle is introduced. The properties of waves are described and the applications of diffraction are presented.
 
 **Instructor:** Catherine Drennan
+
+
+

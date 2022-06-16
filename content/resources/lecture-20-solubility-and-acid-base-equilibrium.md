@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: If you have ever tried to get a stain out of a favorite garment or struggled to clean your bathtub after a long period of neglect, this lecture is for you. Understanding solubility is important whether you want to design a new cancer drug, want to save the planet by removing greenhouse gases from the environment like Chemist Hector Hernandez, or if you simply want to get your apartment ready for a visit from your parents.
 
 **Instructor:** Catherine Drennan
+
+
+

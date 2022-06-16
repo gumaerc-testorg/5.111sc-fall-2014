@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 23: Acid-Base Titrations Part I'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and / or pKa of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
 
 **Instructor:** Catherine Drennan
+
+
+

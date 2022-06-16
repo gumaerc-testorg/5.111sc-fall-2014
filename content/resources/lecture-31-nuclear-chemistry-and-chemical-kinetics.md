@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Professor Drennan recites Mala Radhakrishnan's poem "Days of Our Half-Lives" as she provides an introduction to nuclear chemistry. With nuclear chemistry as a great example of a first order process, the lecture also goes on to talk about second order reactions. Chemical equilibrium is also revisited as the class considers the relationship between equilibrium constants and rate constants.
 
 **Instructor:** Catherine Drennan
+
+
+
