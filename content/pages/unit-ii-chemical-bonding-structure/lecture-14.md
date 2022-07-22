@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: In this session on valence bond theory, the concept of hybridization
+  is introduced as being important for understanding the geometry of organic molecules.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 title: 'Lecture 14: Valence Bond Theory and Hybridization'
 uid: bc4e02be-0613-a6fc-db1f-e751834b8e16
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-13) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium) »
+« {{% resource_link 0e6db317-91e1-3ca8-0e85-5c92186dafb0 "Previous" %}} | {{% resource_link d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file cd86b306-35e5-7bac-7778-c7857150e68a >}}) 
+{{< resource cd86b306-35e5-7bac-7778-c7857150e68a >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -22,8 +27,8 @@ Topics
 1.  Valence Bond Theory and Hybridization
     1.  Sigma and pi Bonds
     2.  Hybridization of Atomic Orbitals
-        1.  sp3 Hybridization
-        2.  sp2 Hybridization
+        1.  sp{{< sup "3" >}} Hybridization
+        2.  sp{{< sup "2" >}} Hybridization
         3.  sp Hybridization
 
 
@@ -43,12 +48,12 @@ Valence bond theory and hybridization can be used to explain and/or predict the 
 Lecture Notes
 -------------
 
-[Notes for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec14)
+{{% resource_link 41f9f96f-4038-a519-975a-3cc320ffb1ff "Notes for Lecture 14 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 14 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec14clkr)
+{{% resource_link 55c7f25b-45fd-e528-f4d5-5a71f7191f40 "Lecture 14 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -60,10 +65,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -87,8 +92,8 @@ Sections 3.4, 3.5, 3.6, and 3.7
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec14prob)
+{{% resource_link 17c0c934-29b6-eaa8-86b8-f384347662c4 "Problems for Lecture 14 (PDF)" %}}
 
-[Solutions for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec14soln)
+{{% resource_link a3113804-070a-c8bc-4bb6-10833d9f634e "Solutions for Lecture 14 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-13) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium) »
+« {{% resource_link 0e6db317-91e1-3ca8-0e85-5c92186dafb0 "Previous" %}} | {{% resource_link d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a "Next" %}} »

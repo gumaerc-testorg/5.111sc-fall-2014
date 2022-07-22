@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: Nuclear chemistry is introduced in the session. Chemical equilibrium
+  is also revisited.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
+parent_type: CourseSection
 parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 uid: c8f99e55-bd17-66c4-505f-19e5b26af70c
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-30) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-32) »
+« {{% resource_link bd55059e-8b18-2feb-fb2b-c8aef5adde05 "Previous" %}} | {{% resource_link 31564d9d-89a9-9686-7912-40b6ed37ef6f "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 8eee3e7b-097b-f5c2-95ec-735e309fdc60 >}}) 
+{{< resource 8eee3e7b-097b-f5c2-95ec-735e309fdc60 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,12 +47,12 @@ Professor Drennan recites Mala Radhakrishnan’s poem “_Days of Our Half-Lives
 Lecture Notes
 -------------
 
-[Notes for Lecture 31 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture31)
+{{% resource_link 72bd5fcf-afd8-7b81-e56e-5b5c96e6b153 "Notes for Lecture 31 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 31 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec31clkr)
+{{% resource_link b12fe5e7-2cd2-7037-6a36-9872c807553f "Lecture 31 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -59,10 +64,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -98,13 +103,13 @@ Section 17.7
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 31 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec31prob)
+{{% resource_link b8c17bff-73d3-d842-efd8-e576eba543c1 "Problems for Lecture 31 (PDF)" %}}
 
-[Solutions for Lecture 31 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec31soln)
+{{% resource_link 9b05c56b-a05c-a383-6730-41fda383d26b "Solutions for Lecture 31 (PDF)" %}}
 
 Acknowledgement
 ---------------
 
 Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _[Atomic Romances, Molecular Dances](http://www.lulu.com/shop/mala-radhakrishnan/atomic-romances-molecular-dances/paperback/product-15572338.html)_ is used with permission.
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-30) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-32) »
+« {{% resource_link bd55059e-8b18-2feb-fb2b-c8aef5adde05 "Previous" %}} | {{% resource_link 31564d9d-89a9-9686-7912-40b6ed37ef6f "Next" %}} »

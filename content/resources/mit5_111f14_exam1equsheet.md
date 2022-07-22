@@ -2,9 +2,17 @@
 content_type: resource
 description: 'This resource contains information regarding principles of chemical
   science: Exam 1 equation sheet.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5173a515227d5268a3ddbdc869f355b3_MIT5_111F14_Exam1EquSheet.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5173a515227d5268a3ddbdc869f355b3_MIT5_111F14_Exam1EquSheet.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
+parent_uid: 542fb9a7-7582-8df9-e538-8d70d4c04741
 resourcetype: Document
 title: 5.111 F14 Exam 1 Equation Sheet
 uid: 5173a515-227d-5268-a3dd-bdc869f355b3
 ---
+This resource contains information regarding principles of chemical science: Exam 1 equation sheet.

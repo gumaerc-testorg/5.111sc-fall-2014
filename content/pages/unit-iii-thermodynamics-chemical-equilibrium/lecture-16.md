@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This session is the second of three lectures on thermodynamics and focuses
+  on Gibbs free energy and entropy .
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 16: Thermodynamics: Gibbs Free Energy and Entropy'
 uid: 4161d4d2-b7e6-4498-f997-dfb3b69eca3c
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-15) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-17) »
+« {{% resource_link 09ecdc68-87c9-427d-73c0-edb2dab5283c "Previous" %}} | {{% resource_link 74d44776-ec12-7476-168b-e0f074e4269b "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 35ea3d5a-2627-b777-1fad-5c6ca91b533d >}}) 
+{{< resource 35ea3d5a-2627-b777-1fad-5c6ca91b533d >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,12 +46,12 @@ If you mix two compounds together will they react spontaneously? How do you know
 Lecture Notes
 -------------
 
-[Notes for Lecture 16 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec16)
+{{% resource_link 1e588ca8-4ce7-e70c-0e3c-b1fc8770ad7f "Notes for Lecture 16 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 16 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec16clkr)
+{{% resource_link d7a23fbd-f710-023e-9d67-639a07a468e8 "Lecture 16 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -58,10 +63,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -109,8 +114,8 @@ Sections 8.12, 8.13, and 8.15
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 16 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec16prob)
+{{% resource_link ebbe2257-55d1-38c0-63d8-9ae0292bd360 "Problems for Lecture 16 (PDF)" %}}
 
-[Solutions for Lecture 16 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec16soln)
+{{% resource_link 446dfcd8-13f7-3f2c-45ec-4768bb47bae0 "Solutions for Lecture 16 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-15) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-17) »
+« {{% resource_link 09ecdc68-87c9-427d-73c0-edb2dab5283c "Previous" %}} | {{% resource_link 74d44776-ec12-7476-168b-e0f074e4269b "Next" %}} »

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This session continues discussion of  Lewis structures and the breakdown
+  of the octet rule.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit II: Chemical Bonding & Structure'
+parent_type: CourseSection
 parent_uid: 89ed642b-2203-7e56-7593-c80ff35cb3f4
 title: 'Lecture 12: The Shapes of Molecules: VSEPR Theory'
 uid: 657cf625-0ea3-965b-7507-5d66ee3cb607
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-11) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-13) »
+« {{% resource_link bbd6f3cb-d22b-a979-f3c5-3baa993e82b8 "Previous" %}} | {{% resource_link 0e6db317-91e1-3ca8-0e85-5c92186dafb0 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 333472e0-1682-3ba0-4bd2-06c343eadd0f >}}) 
+{{< resource 333472e0-1682-3ba0-4bd2-06c343eadd0f >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,12 +45,12 @@ Valence shell electron pair repulsion or VSEPR theory can be used to predict mol
 Lecture Notes
 -------------
 
-[Notes for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec12)
+{{% resource_link 223a7ba2-0d79-4cb1-e06b-8b02484d58e9 "Notes for Lecture 12 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 12 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec12clkr)
+{{% resource_link 6d3fd6f2-4c03-3953-c180-8d24d97b9524 "Lecture 12 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -57,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -107,8 +112,8 @@ Stefanie Sydlik describes how an exciting “Take Your Daughter to Work Day” c
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec12prob)
+{{% resource_link 1cbd6f0a-17e0-c77b-ea81-c30d1be7bfbd "Problems for Lecture 12 (PDF)" %}}
 
-[Solutions for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec12soln)
+{{% resource_link cbc43098-cae7-a732-07c6-30760460c080 "Solutions for Lecture 12 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-11) | [Next]({{< baseurl >}}/pages/unit-ii-chemical-bonding-structure/lecture-13) »
+« {{% resource_link bbd6f3cb-d22b-a979-f3c5-3baa993e82b8 "Previous" %}} | {{% resource_link 0e6db317-91e1-3ca8-0e85-5c92186dafb0 "Next" %}} »

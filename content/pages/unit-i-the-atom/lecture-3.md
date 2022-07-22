@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: The idea that light is both a wave and a particle is introduced. The
+  properties of waves are described and the applications of diffraction are presented.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 title: 'Lecture 3: Wave-Particle Duality of Light'
 uid: bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-2) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-4) »
+« {{% resource_link 5f132e2d-e0de-f588-3a91-12c82ff3e6ec "Previous" %}} | {{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 078998c1-3433-fa2f-cbf3-23d2a0197d85 >}}) 
+{{< resource 078998c1-3433-fa2f-cbf3-23d2a0197d85 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,12 +44,12 @@ The idea that light is both a wave and a particle is introduced. The properties 
 Lecture Notes
 -------------
 
-[Notes for Lecture 3 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec3)
+{{% resource_link d95f1abe-c7d8-eecc-1614-5b9f2fd2761e "Notes for Lecture 3 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 3 Clicker Questions (PDF - 1.3MB)]({{< baseurl >}}/resources/mit5_111f14_lec3clkr)
+{{% resource_link d60dfec6-ecb5-4eb5-7c5c-5f7f02065311 "Lecture 3 Clicker Questions (PDF - 1.3MB)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -56,10 +61,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -106,13 +111,13 @@ Cathy Drennan explains how her dyslexia, and other people’s low expectations o
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 3 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec03prob)
+{{% resource_link 00db7442-f050-87c7-5f86-190c60ee0dc4 "Problems for Lecture 3 (PDF)" %}}
 
-[Solutions for Lecture 3 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec03soln)
+{{% resource_link 98dea71a-08b7-a427-0268-110f41bcd7e2 "Solutions for Lecture 3 (PDF)" %}}
 
 Acknowledgement
 ---------------
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-2) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-4) »
+« {{% resource_link 5f132e2d-e0de-f588-3a91-12c82ff3e6ec "Previous" %}} | {{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Next" %}} »

@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: The concept of activation energy is introduced in this session.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit V: Chemical Kinetics'
+parent_type: CourseSection
 parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 title: 'Lecture 33: Kinetics and Temperature'
 uid: bfdc3eed-5d1b-3d9c-e32c-f1f3c4868b27
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-32) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-34) »
+« {{% resource_link 31564d9d-89a9-9686-7912-40b6ed37ef6f "Previous" %}} | {{% resource_link 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +18,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file bf0340d1-f5d8-17e3-bca5-97b1ce92e410 >}}) 
+{{< resource bf0340d1-f5d8-17e3-bca5-97b1ce92e410 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,12 +43,12 @@ Using liquid nitrogen, we observe that lowering the temperature slows reaction r
 Lecture Notes
 -------------
 
-[Notes for Lecture 33 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture33)
+{{% resource_link 8cc04e96-33b3-f2e2-19d5-2f546d14e39c "Notes for Lecture 33 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 33 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec33clkr)
+{{% resource_link 5eb4141d-27fc-f556-dd05-bc4291e16da3 "Lecture 33 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -56,10 +60,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -83,8 +87,8 @@ Sections 13.11–13.13
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 33 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec33prob)
+{{% resource_link c01ca46b-8d75-1338-e54c-63d3577be986 "Problems for Lecture 33 (PDF)" %}}
 
-[Solutions for Lecture 33 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec33soln)
+{{% resource_link 1f0f0b1f-ba76-3afd-809c-d086a03d5384 "Solutions for Lecture 33 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-32) | [Next]({{< baseurl >}}/pages/unit-v-chemical-kinetics/lecture-34) »
+« {{% resource_link 31564d9d-89a9-9686-7912-40b6ed37ef6f "Previous" %}} | {{% resource_link 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3 "Next" %}} »

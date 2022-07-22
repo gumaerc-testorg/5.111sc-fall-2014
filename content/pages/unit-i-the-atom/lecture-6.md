@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: In this session, the probability of finding an electron at a particular
+  distance from the nucleus is discussed. The concept of wavefunctions (orbitals)
+  is introduced, and applications of electron spin are described.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 title: 'Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)'
 uid: c88a7a36-f1d5-0d92-1f8c-175f64643ef4
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-5) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-7) »
+« {{% resource_link 19bd276c-98fb-61bc-72af-22c0567e02a2 "Previous" %}} | {{% resource_link 3cbec0b6-342c-45e2-19db-b316c53f0274 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +20,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52 >}}) 
+{{< resource c34c8fe7-4e0f-b8e9-ce9f-3776157b8c52 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,12 +46,12 @@ Where is that electron anyway? In this lecture, the probability of finding an el
 Lecture Notes
 -------------
 
-[Notes for Lecture 6 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec6)
+{{% resource_link 5c828fce-769b-146e-5820-a7d6ed0abfc2 "Notes for Lecture 6 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 6 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec6clkr)
+{{% resource_link 367a4051-62c5-1973-8381-542066827391 "Lecture 6 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -57,10 +63,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -119,8 +125,8 @@ Ben Ofori-Okai describes his realization that his love of problem-solving in mat
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 6 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec06prob)
+{{% resource_link 402e94d6-7af8-ba17-acf3-4ff51bae89bc "Problems for Lecture 6 (PDF)" %}}
 
-[Solutions for Lecture 6 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec06soln)
+{{% resource_link a22b771e-debe-bdfc-73f3-4b633453b1b5 "Solutions for Lecture 6 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom/lecture-5) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-7) »
+« {{% resource_link 19bd276c-98fb-61bc-72af-22c0567e02a2 "Previous" %}} | {{% resource_link 3cbec0b6-342c-45e2-19db-b316c53f0274 "Next" %}} »

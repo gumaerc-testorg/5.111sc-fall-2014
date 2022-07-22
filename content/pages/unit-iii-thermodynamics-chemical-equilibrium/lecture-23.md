@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This session is the first of two lectures on acid-base titrations. It
+  includes how to work through the calculations underlying acid-base titrations.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
+parent_type: CourseSection
 parent_uid: d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a
 title: 'Lecture 23: Acid-Base Titrations Part I'
 uid: 4d30b63d-cd60-89ec-bffc-fd57c80b1766
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-22) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-24) »
+« {{% resource_link 3967bba5-a7b0-073a-cd9a-c713fa2d59eb "Previous" %}} | {{% resource_link 92c821cc-7504-7b75-ec7b-50ab1516b1b6 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 69bd40b3-c824-1027-d24c-167a359ed681 >}}) 
+{{< resource 69bd40b3-c824-1027-d24c-167a359ed681 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -33,19 +38,19 @@ Topics
 {{< anchor "Lecture_Video23" >}}{{< /anchor >}}Lecture Video
 ------------------------------------------------------------
 
-A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and/or pKa of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
+A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and/or pK{{< sub "a" >}} of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
 
 {{< resource 7baa34a9-e930-1bc7-e2b5-e32985d729db >}}
 
 Lecture Notes
 -------------
 
-[Notes for Lecture 23 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec23)
+{{% resource_link 19185857-19e7-d5b3-d325-35cbe4bbd451 "Notes for Lecture 23 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 23 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec23clkr)
+{{% resource_link a1cbfef9-ed48-bc44-aaa3-f25463aae2b6 "Lecture 23 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -57,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -84,8 +89,8 @@ Sections 11.4–11.6
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 23 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec23prob)
+{{% resource_link a87a98d1-2fa6-7e6f-2c5d-0b565c84d651 "Problems for Lecture 23 (PDF)" %}}
 
-[Solutions for Lecture 23 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec23soln)
+{{% resource_link c1940b74-8d35-c51f-710b-6b931898b9d5 "Solutions for Lecture 23 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-22) | [Next]({{< baseurl >}}/pages/unit-iii-thermodynamics-chemical-equilibrium/lecture-24) »
+« {{% resource_link 3967bba5-a7b0-073a-cd9a-c713fa2d59eb "Previous" %}} | {{% resource_link 92c821cc-7504-7b75-ec7b-50ab1516b1b6 "Next" %}} »

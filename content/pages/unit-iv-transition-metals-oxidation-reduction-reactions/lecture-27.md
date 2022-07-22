@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This session provides an introduction to transition metals, also called
+  d-block metals.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
+parent_type: CourseSection
 parent_uid: 89863654-3b84-26a3-a530-91cb22239ee9
 title: 'Lecture 27: Introduction to Transition Metals'
 uid: c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28) »
+« {{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Previous" %}} | {{% resource_link 2b3c40e8-7019-4d11-c257-ec00379e8c86 "Next" %}} »
 
 Topics
 ------
@@ -14,7 +19,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 06337701-e25b-8505-de81-64455c04c620 >}}) 
+{{< resource 06337701-e25b-8505-de81-64455c04c620 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,12 +45,12 @@ A fundamental property of d-block metals (aka transition metals) is that they ar
 Lecture Notes
 -------------
 
-[Notes for Lecture 27 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lecture27)
+{{% resource_link a2f070d4-000a-6fc3-42c6-a941aa9e254c "Notes for Lecture 27 (PDF)" %}}
 
 Clicker Questions
 -----------------
 
-[Lecture 27 Clicker Questions (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec27clkr)
+{{% resource_link 284780d6-ca95-9ebb-88bc-6500f14d2111 "Lecture 27 Clicker Questions (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -57,10 +62,10 @@ Clicker Questions
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
@@ -95,8 +100,8 @@ Sarah Bowman shares how she “changed her mind” about careers after completin
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 27 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec27prob)
+{{% resource_link 4de536ab-4d56-ab3e-f696-8d40afbdffb1 "Problems for Lecture 27 (PDF)" %}}
 
-[Solutions for Lecture 27 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec27soln)
+{{% resource_link e0464d45-84b5-126c-c108-f551fd04f7ca "Solutions for Lecture 27 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26) | [Next]({{< baseurl >}}/pages/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28) »
+« {{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Previous" %}} | {{% resource_link 2b3c40e8-7019-4d11-c257-ec00379e8c86 "Next" %}} »

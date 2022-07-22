@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This session introduces this series of lectures about basic chemical
+  principles. Goals for students of this material are presented as well as some examples
+  about how real world problems can be solved through the applications of chemical
+  principles.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit I: The Atom'
+parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 title: 'Lecture 1: The Importance of Chemical Principles'
 uid: 2093fa03-8f0b-9e63-c680-49a3ed4867fd
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-2) »
+« {{% resource_link 36cc671a-c04c-270e-9cac-7a210efd6846 "Previous" %}} | {{% resource_link 5f132e2d-e0de-f588-3a91-12c82ff3e6ec "Next" %}} »
 
 Topics
 ------
@@ -14,7 +21,7 @@ Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file c9d55ebf-d6f1-d1ba-a04b-955a9cb017e5 >}}) 
+{{< resource c9d55ebf-d6f1-d1ba-a04b-955a9cb017e5 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -40,7 +47,7 @@ Professor Cathy Drennan introduces this series of lectures about basic chemical 
 Lecture Notes
 -------------
 
-[Notes for Lecture 1 (PDF)]({{< baseurl >}}/resources/mit5_111f14_lec1)
+{{% resource_link 805ae0a4-e8dc-0b0f-b4f2-c4bd0ae68ebb "Notes for Lecture 1 (PDF)" %}}
 
 {{< anchor "Textbook_Reading" >}}{{< /anchor >}}Textbook Reading
 ----------------------------------------------------------------
@@ -54,17 +61,17 @@ This material, which is a review of fundamental chemical principles, will not be
 TOPICS
 {{< thclose >}}
 {{< thopen >}}
-5th EDITION
+5{{< sup "th" >}} EDITION
 {{< thclose >}}
 {{< thopen >}}
-4th EDITION
+4{{< sup "th" >}} EDITION
 {{< thclose >}}
 
 {{< trclose >}}
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Matter and Energy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -183,15 +190,15 @@ Section M: pp. F93–100
 
 {{< tableclose >}}
 
-Significant figures are important. Rules for scientific notation and significant figures are available in the back of our textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10\-9), μ (micro, 10\-6), m (milli, 10\-3), c (centi, 10\-2), and k (kilo, 103).
+Significant figures are important. Rules for scientific notation and significant figures are available in the back of our textbook in Appendix 1, pages A5-A6. You are also responsible for knowing the following SI prefixes: n (nano, 10{{< sup "\-9" >}}), μ (micro, 10{{< sup "\-6" >}}), m (milli, 10{{< sup "\-3" >}}), c (centi, 10{{< sup "\-2" >}}), and k (kilo, 10{{< sup "3" >}}).
 
 Problems and Solutions
 ----------------------
 
 Review problems to complete before continuing to lecture 2. Students are expected to know this material, which is not covered in class.
 
-[5.111 Review Problems (PDF)]({{< baseurl >}}/resources/mit5_111f14_probreview)
+{{% resource_link 83ccdfcf-a332-7eda-57fd-e82e885985b7 "5.111 Review Problems (PDF)" %}}
 
-[Solutions for 5.111 Review Problems (PDF)]({{< baseurl >}}/resources/mit5_111f14_solreview)
+{{% resource_link 1c8a43a2-a5e8-2bcd-d0f8-ae50adf2828f "Solutions for 5.111 Review Problems (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-i-the-atom) | [Next]({{< baseurl >}}/pages/unit-i-the-atom/lecture-2) »
+« {{% resource_link 36cc671a-c04c-270e-9cac-7a210efd6846 "Previous" %}} | {{% resource_link 5f132e2d-e0de-f588-3a91-12c82ff3e6ec "Next" %}} »
