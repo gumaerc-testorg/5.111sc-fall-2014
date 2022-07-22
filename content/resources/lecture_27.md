@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image excerpted from Lecture 27 Notes
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lecture 27: Introduction to Transition Metals'
 parent_type: CourseSection

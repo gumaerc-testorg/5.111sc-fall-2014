@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: The idea that matter (and thus an electron) has both particle-like and wave-like properties is introduced, and chemist Darcy Wanger Grinolds introduces us to quantum dot technology. We also start to consider the impact that the Schrödinger equation had on our understanding of the atom.
 
 **Instructor:** Catherine Drennan
-
-
 

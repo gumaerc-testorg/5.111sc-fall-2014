@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: In this lecture, we complete the discussion of the periodic table and start to consider the types of bonds that are formed between elements. Chemist Kateryna Kozyrytska tells us about why the concept of electronegativity is important in the design of antibiotics.
 
 **Instructor:** Catherine Drennan
-
-
 

@@ -6,6 +6,7 @@ file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5173a515227d5268
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5.111 F14 Exam 1 Equation Sheet
 uid: 5173a515-227d-5268-a3dd-bdc869f355b3
 ---
 This resource contains information regarding principles of chemical science: Exam 1 equation sheet.
-

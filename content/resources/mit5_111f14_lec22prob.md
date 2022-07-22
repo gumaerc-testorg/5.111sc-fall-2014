@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 22 problem.
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f9d6659dc6a27d60c3225d3a4218382e_MIT5_111F14_Lec22Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Principles of Chemical Science, Problems for Lecture 22:  Acid-Base Equi
 uid: f9d6659d-c6a2-7d60-c322-5d3a4218382e
 ---
 This resource contains information regarding lecture 22 problem.
-

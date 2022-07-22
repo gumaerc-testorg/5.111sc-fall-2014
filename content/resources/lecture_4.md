@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image excerpted from Lecture 4 Notes
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Lecture 4: Wave-Particle Duality of Matter; Schr\xF6dinger Equation"
 parent_type: CourseSection

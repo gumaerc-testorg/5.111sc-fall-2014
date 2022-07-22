@@ -6,6 +6,7 @@ file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3775a92f716707d3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5.111 F14 Practice Exam 2
 uid: 3775a92f-7167-07d3-01f0-55ace4a2ada7
 ---
 This resource contains information regarding principles of chemical science: Practice exam 2.
-

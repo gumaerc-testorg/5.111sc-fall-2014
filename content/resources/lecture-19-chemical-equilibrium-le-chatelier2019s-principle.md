@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A system in equilibrium that is subjected to a stress tends to respond in a way that minimizes that stress. In this lecture, viewers will learn about chemical reactions but will also learn some important life lessons.
 
 **Instructor:** Catherine Drennan
-
-
 

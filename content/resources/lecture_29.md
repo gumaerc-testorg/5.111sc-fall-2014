@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Image excerpted from Lecture 29 Notes
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
 parent_type: CourseSection

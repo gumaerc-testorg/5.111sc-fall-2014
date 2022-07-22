@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 Description: Embedded video, no tabs, this description appears on section page: After focusing on the hydrogen atom for several lectures, the course moves on to consider atoms with more than one electron. Now, the pull of the positively charged nucleus on the negatively charged electron is harder to predict as shielding comes into play. Also, we try our hand at electron configurations.
 
 Instructor: Catherine Drennan
-
-
 

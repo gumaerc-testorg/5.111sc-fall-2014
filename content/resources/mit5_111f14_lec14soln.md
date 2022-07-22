@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 14 solution.
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/a3113804070ac8bc4bb610833d9f634e_MIT5_111F14_Lec14Soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit II: Chemical Bonding & Structure'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Principles of Chemical Science, Solutions for Lecture 14: Valence Bond T
 uid: a3113804-070a-c8bc-4bb6-10833d9f634e
 ---
 This resource contains information regarding lecture 14 solution.
-

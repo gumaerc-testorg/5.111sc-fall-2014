@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: If the pH of water was 2, would you drink it? What about if the water had a pH of 11? The lecture introduces the concept of pH and we measure the pH of various common solutions.
 
 **Instructor:** Catherine Drennan
-
-
 

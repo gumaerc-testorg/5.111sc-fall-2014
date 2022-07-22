@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: Where is that electron anyway? In this lecture, the probability of finding an electron at a particular distance from the nucleus is discussed. The concept of wavefunctions (orbitals) is introduced, and applications of electron spin are described. In particular, chemist Ben Ofori-Okai introduces us to the wonders of magnetic resonance imaging, also known as MRIs.
 
 **Instructor:** Catherine Drennan
-
-
 

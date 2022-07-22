@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 27 problem.
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/4de536ab4d56ab3ef6968d40afbdffb1_MIT5_111F14_Lec27Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Principles of Chemical Science, Problems for Lecture 27: Introduction to
 uid: 4de536ab-4d56-ab3e-f696-8d40afbdffb1
 ---
 This resource contains information regarding lecture 27 problem.
-

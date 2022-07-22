@@ -5,6 +5,7 @@ description: 'This resource contains information regarding Transition Metals: Cr
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/8daa90581534ef01d87bfbe4ea7d20b7_MIT5_111F14_Lec28Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 28: Transi
 uid: 8daa9058-1534-ef01-d87b-fbe4ea7d20b7
 ---
 This resource contains information regarding Transition Metals: Crystal Field Theory Part I.
-

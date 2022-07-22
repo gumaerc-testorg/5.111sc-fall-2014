@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 325 student enrolled
 uid: 4530da2f-ebee-552a-5ec2-2acb1f0ce5b6
 ---
 325 student took this course when it was taught in Fall 2014.
-

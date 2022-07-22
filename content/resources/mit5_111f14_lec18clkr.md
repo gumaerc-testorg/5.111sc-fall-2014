@@ -5,6 +5,7 @@ description: This resource contains information regarding Introduction to Chemic
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/dc2c31954cfac487a59717849a44f10f_MIT5_111F14_Lec18Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 18: Introd
 uid: dc2c3195-4cfa-c487-a597-17849a44f10f
 ---
 This resource contains information regarding Introduction to Chemical Equilibrium.
-

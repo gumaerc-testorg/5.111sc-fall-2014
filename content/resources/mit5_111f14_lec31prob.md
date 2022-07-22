@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 31 problem.
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/b8c17bff73d3d842efd8e576eba543c1_MIT5_111F14_Lec31Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit V: Chemical Kinetics'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Principles of Chemical Science, Problems for Lecture 31: Nuclear Chemist
 uid: b8c17bff-73d3-d842-efd8-e576eba543c1
 ---
 This resource contains information regarding lecture 31 problem.
-

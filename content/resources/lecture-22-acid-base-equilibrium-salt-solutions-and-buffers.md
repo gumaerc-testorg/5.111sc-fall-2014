@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: A buffer helps to maintain a constant pH. Our blood has a natural buffering system to ensure that the pH of our blood stays within a narrow window and that we stay health. In this lecture, we consider how to design a buffer. We also discuss how one can predict the pH of a salt solution. At dinner if you put table salt in your water glass, how would the pH of the water change? or would it change?
 
 **Instructor:** Catherine Drennan
-
-
 

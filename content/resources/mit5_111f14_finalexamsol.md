@@ -6,6 +6,7 @@ file: /courses/5-111sc-principles-of-chemical-science-fall-2014/6ab19c33fab442ae
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5.111 F14 Final Exam Solutions
 uid: 6ab19c33-fab4-42ae-034b-455dcb970144
 ---
 This resource contains information regarding principles of chemical science: Final exam solutions.
-

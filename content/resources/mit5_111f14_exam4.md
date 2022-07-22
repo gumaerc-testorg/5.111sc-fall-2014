@@ -6,6 +6,7 @@ file: /courses/5-111sc-principles-of-chemical-science-fall-2014/2e58dd276be56ee0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5.111 F14 Exam 4
 uid: 2e58dd27-6be5-6ee0-3521-ee7922e61413
 ---
 This resource contains information regarding principles of chemical science: Exam 4.
-

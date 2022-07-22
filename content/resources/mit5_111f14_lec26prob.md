@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 26 problem.
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/6f3a939a6c1b8f389f84fed7d3598ef4_MIT5_111F14_Lec26Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Principles of Chemical Science, Problems for Lecture 26: Chemical and Bi
 uid: 6f3a939a-6c1b-8f38-9f84-fed7d3598ef4
 ---
 This resource contains information regarding lecture 26 problem.
-

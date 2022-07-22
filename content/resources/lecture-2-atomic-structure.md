@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Embedded video, no tabs, this description appears on section page: The backscattering experiment of Rutherford is recreated in the classroom setting. Ping pong balls are used to represent alpha particles and Styrofoam balls connected to a series of strings represent nuclei in a piece of gold foil.
 
 **Instructor:** Catherine Drennan
-
-
 

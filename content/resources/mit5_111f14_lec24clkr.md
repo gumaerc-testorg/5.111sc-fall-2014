@@ -5,6 +5,7 @@ description: This resource contains information regarding Acid-Base Titrations P
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5b0472a745b91fa37ae097572488a706_MIT5_111F14_Lec24Clkr.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit III: Thermodynamics & Chemical Equilibrium'
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Principles of Chemical Science, Clicker Questions for Lecture 24: Acid-B
 uid: 5b0472a7-45b9-1fa3-7ae0-97572488a706
 ---
 This resource contains information regarding Acid-Base Titrations Part II.
-
