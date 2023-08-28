@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: pn1cxuBmhtI
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: In the final clicker competition of the semester, students are challenged to explain a biological process using the basic chemical principles that they have learned over the course of the semester. The process is the biological fixation of the greenhouse gas carbon dioxide by a micro-organism. Match your wits and knowledge and see how you score compared to the winning group of MIT students.
 
 **Instructor:** Catherine Drennan
-

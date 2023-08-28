@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: Ja9eEQQzTic
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Valence shell electron pair repulsion or VSEPR theory can be used to predict molecular geometry. The theory is based on Lewis structures and the simple idea that that the preferred geometry around a central atom is the one that minimizes electron repulsion. Chemist Stefanie Sydlik tells us how she uses VSEPR theory to design sensors that are capable of detecting landmines.
 
 **Instructor:** Catherine Drennan
-

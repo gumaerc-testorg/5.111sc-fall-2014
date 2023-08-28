@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: BZzkyqe6KD8
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Redox reactions are a major class of chemical reactions in which there is an exchange of electrons from one species to another. In this lecture, the basic principles of redox reactions are introduced. If you want to design the next greatest battery to power your favorite electronic device, you won't want to miss this lecture.
 
 **Instructor:** Catherine Drennan
-

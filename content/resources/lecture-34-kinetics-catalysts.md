@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: p8AAjZXr5dg
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: A catalyst is a substrate that speeds up a reaction without being consumed. Catalysts lower the activation energy barrier for a reaction without changing the equilibrium constant. In this lecture, catalysts of different types are introduced, including Nature's catalysts, enzymes. We also hear from Chemist Jingnan Lu about why knowledge of kinetics is important for the development of biofuels.
 
 **Instructor:** Catherine Drennan
-
