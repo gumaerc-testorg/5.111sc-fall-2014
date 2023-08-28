@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: ed_XR1BzuQs
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Lewis structures are simplistic views of molecular structure. They are based on the idea that the key to covalent bonding is electron sharing and having each atom achieve a noble gas electron configuration. Lewis structures correctly predict electron configurations around atoms in molecules about 90% of the time. They are not perfect, but writing a Lewis structure is a lot easier than solving the Schrödinger equation, so we recommend that you watch this lecture.
 
 **Instructor:** Catherine Drennan
-

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: lLdPSLNxDqA
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Crystal field theory was developed to explain the special features of transition metal complexes, including their beautiful colors and their magnetic properties. In part I of this topic, we consider d-block coordination complexes that have octahedral geometry, and see whether we can change the color of a paper flower dipped in an octahedral cobalt chloride complex just by adding water.
 
 **Instructor:** Catherine Drennan
-

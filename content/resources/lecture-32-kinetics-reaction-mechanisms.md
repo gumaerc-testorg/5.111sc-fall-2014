@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 4q0T9c7jotw
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Chemists experimentally determine rate laws and then use that experimental information to propose reaction mechanisms. In an overall reaction, some steps will be fast and others slow. One step can be so slow that it governs the overall rate of the reaction; it is the rate-determining step. Learn how to predict reaction mechanisms using the steady-state approximation as well as information about fast and slow steps.
 
 **Instructor:** Catherine Drennan
-

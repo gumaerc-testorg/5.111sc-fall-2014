@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: FJCVSswFXyE
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: If you have ever tried to get a stain out of a favorite garment or struggled to clean your bathtub after a long period of neglect, this lecture is for you. Understanding solubility is important whether you want to design a new cancer drug, want to save the planet by removing greenhouse gases from the environment like Chemist Hector Hernandez, or if you simply want to get your apartment ready for a visit from your parents.
 
 **Instructor:** Catherine Drennan
-

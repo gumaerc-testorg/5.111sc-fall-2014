@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: kO0VmaLkgj8
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: In this lecture, we look at the visible spectrum produced by the hydrogen atom. A series of lines of different colors appear and we consider why the hydrogen atom produces this particular spectrum.
 
 **Instructor:** Catherine Drennan
-
