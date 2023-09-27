@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: LWmVdG0uj2g
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: The periodic table is to chemistry like the laws of motion are to physics. In this lecture, we discover the secrets of the periodic table and meet the elements.
 
 **Instructor:** Catherine Drennan
-

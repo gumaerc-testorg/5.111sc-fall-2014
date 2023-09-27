@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: awdQqF9CFt0
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: Chemistry is part of everyday life whether we realize it or not. In this lecture, we use thermodynamics to explain some basic observations made when cooking. Chemistry is also essential within living organisms, and we hear from researcher Lourdes Aleman about the importance of weak interactions known as hydrogen bonds.
 
 **Instructor:** Catherine Drennan
-

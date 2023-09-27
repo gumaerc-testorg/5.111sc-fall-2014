@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: pJdUR2uak2s
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: If the pH of water was 2, would you drink it? What about if the water had a pH of 11? The lecture introduces the concept of pH and we measure the pH of various common solutions.
 
 **Instructor:** Catherine Drennan
-

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: OjhZYx1FbhI
 ---
-
 **Description:** Embedded video, no tabs, this description appears on section page: If you mix two compounds together will they react spontaneously? How do you know? Find out the key to spontaneity in this lecture. Also, what does Robert Frost's poetry have to do with entropy, and how can you prepare toothpaste for an elephant? Find out.
 
 **Instructor:** Catherine Drennan
-
