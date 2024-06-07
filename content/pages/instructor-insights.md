@@ -11,7 +11,7 @@ uid: 1eb2fd82-4dc0-2f22-bc85-743316b46947
 ---
 ## Course Overview
 
-This page focuses on the course _5.111 Principles of Chemical Science_ as it was taught by Professor Catherine Drennan, with assistance from Course Coordinator, Allena Mistral Goren, in Fall 2014.
+This page focuses on the course *5.111 Principles of Chemical Science* as it was taught by Professor Catherine Drennan, with assistance from Course Coordinator, Allena Mistral Goren, in Fall 2014.
 
 This course provides an introduction to the chemistry of biological, inorganic, and organic molecules. The emphasis is on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.
 
@@ -29,20 +29,20 @@ This course provides an introduction to the chemistry of biological, inorganic, 
 
 ## Instructor Interview
 
-In the following videos, Professor Catherine Drennan describes various aspects of how she teaches _5.111 Principles of Chemical Science._
+In the following videos, Professor Catherine Drennan describes various aspects of how she teaches *5.111 Principles of Chemical Science.*
 
-- {{% resource_link aa65e776-da99-be61-ed9e-993b53369f6b "Meet the Educator" %}}
-- {{% resource_link cba7f205-b4f5-4345-8814-abd04739e54b "5.111: A Space to Discover your Passion for Chemistry" %}}
-- {{% resource_link 9f07f98a-1bc6-fded-f45b-6820c7496e51 "Spotlighting Contemporary Chemistry" %}}
-- {{% resource_link cc0ff916-e945-8bea-d56c-b012aeb248ae "Preparing for Lectures" %}}
-- {{% resource_link 66f63378-4b3e-dc50-6439-55bf0aee9bd0 "Clicker Competitions" %}}
-- {{% resource_link b47d148b-a984-da92-972a-10881621edd4 "Promoting Active Participation During Lectures" %}}
-- {{% resource_link f7297c94-0ac4-058f-bcee-20b25649d385 "Using Humor to Engage Students" %}}
-- {{% resource_link eb647a41-8c9b-fc01-91a9-c746a7ef676c "Pizza Forums: Connecting with Students in a Large Lecture Class" %}}
-- {{% resource_link d280d577-dba6-293f-2822-1912acd276ab "Building a Team of Teaching Assistants" %}}
-    - {{% resource_link 0167732c-de17-c8d0-4e32-34e21877a558 "Diversity Training: Introduction Video" %}}
-    - {{% resource_link 3e8f5e36-eb19-0447-4437-a209b2f13504 "Diversity Training: Addressing Stereotype Threat in the Classroom" %}}
-        - [Presentation Slides](http://drennan.mit.edu/education/education-interests/teacher-and-mentor-training/#Diversity-Training)
+- {{% resource_link "aa65e776-da99-be61-ed9e-993b53369f6b" "Meet the Educator" %}}
+- {{% resource_link "cba7f205-b4f5-4345-8814-abd04739e54b" "5.111: A Space to Discover your Passion for Chemistry" %}}
+- {{% resource_link "9f07f98a-1bc6-fded-f45b-6820c7496e51" "Spotlighting Contemporary Chemistry" %}}
+- {{% resource_link "cc0ff916-e945-8bea-d56c-b012aeb248ae" "Preparing for Lectures" %}}
+- {{% resource_link "66f63378-4b3e-dc50-6439-55bf0aee9bd0" "Clicker Competitions" %}}
+- {{% resource_link "b47d148b-a984-da92-972a-10881621edd4" "Promoting Active Participation During Lectures" %}}
+- {{% resource_link "f7297c94-0ac4-058f-bcee-20b25649d385" "Using Humor to Engage Students" %}}
+- {{% resource_link "eb647a41-8c9b-fc01-91a9-c746a7ef676c" "Pizza Forums: Connecting with Students in a Large Lecture Class" %}}
+- {{% resource_link "d280d577-dba6-293f-2822-1912acd276ab" "Building a Team of Teaching Assistants" %}}
+    - {{% resource_link "0167732c-de17-c8d0-4e32-34e21877a558" "Diversity Training: Introduction Video" %}}
+    - {{% resource_link "3e8f5e36-eb19-0447-4437-a209b2f13504" "Diversity Training: Addressing Stereotype Threat in the Classroom" %}}
+        - [Presentation Slides](https://drennan.mit.edu/wp-content/uploads/2012/12/diversity-training_ppt-for-website.ppt)
         - [Pamphlet (PDF)](http://drennan.mit.edu/wp-content/uploads/2018/03/Reading.pdf)
 
 ## Curriculum Information
@@ -86,7 +86,7 @@ Most students have not yet finalized their majors.
 
 ### Typical Student Background
 
-Not all students who enroll in _5.111 Principles of Chemical Science_ come to the course already enthusiastic about chemistry. The course offers them an opportunity to see how chemistry is a modern subject shaping many fields and how it can offer tools useful for solving real-world problems. Learn more about how Professor Drennan conceptualizes {{% resource_link cba7f205-b4f5-4345-8814-abd04739e54b "5.111 as a course in which students can develop a passion for chemistry" %}}.
+Not all students who enroll in *5.111 Principles of Chemical Science* come to the course already enthusiastic about chemistry. The course offers them an opportunity to see how chemistry is a modern subject shaping many fields and how it can offer tools useful for solving real-world problems. Learn more about how Professor Drennan conceptualizes {{% resource_link "cba7f205-b4f5-4345-8814-abd04739e54b" "5.111 as a course in which students can develop a passion for chemistry" %}}.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
@@ -107,4 +107,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### Out of Class
 
-Students completed problem sets and prepared for exams outside of class. They also participated in {{% resource_link eb647a41-8c9b-fc01-91a9-c746a7ef676c "pizza forums" %}}, which were opportunities to get to know the professor in small group settings.
+Students completed problem sets and prepared for exams outside of class. They also participated in {{% resource_link "eb647a41-8c9b-fc01-91a9-c746a7ef676c" "pizza forums" %}}, which were opportunities to get to know the professor in small group settings.
