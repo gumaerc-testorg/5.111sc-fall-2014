@@ -4,7 +4,7 @@ description: 'This resource contains information regarding Transition Metals: Cr
   Field Theory Part II.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/4df217cbe8a6d4b7c3423cd3dc665ff0_MIT5_111F14_Lec29Clkr.pdf
-file_size: ''
+file_size: 804627
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information regarding Acid-base Equilibrium
   Salt Solutions and Buffers.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/d7bbe360060930e9ec0e6b680018089e_MIT5_111F14_Lec22Clkr.pdf
-file_size: ''
+file_size: 1129212
 file_type: application/pdf
 image_metadata:
   caption: ''

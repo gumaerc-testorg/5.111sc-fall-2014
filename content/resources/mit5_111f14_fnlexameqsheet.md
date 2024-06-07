@@ -4,7 +4,7 @@ description: 'This resource contains information regarding principles of chemica
   science: Final exam equation sheet.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/fd6740d186f548251be8eb5fb40ace07_MIT5_111F14_FnlExamEqSheet.pdf
-file_size: ''
+file_size: 198746
 file_type: application/pdf
 image_metadata:
   caption: ''

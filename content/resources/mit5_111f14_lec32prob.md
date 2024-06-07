@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding lecture 32 problem.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/18db0db2803312f3ba64f702c0c06786_MIT5_111F14_Lec32Prob.pdf
-file_size: ''
+file_size: 76718
 file_type: application/pdf
 image_metadata:
   caption: ''

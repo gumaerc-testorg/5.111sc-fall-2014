@@ -4,7 +4,7 @@ description: 'This resource contains information regarding Thermodynamics: Bond 
   Reaction Enthalpies.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f46735b138b39e097afbd7e969530685_MIT5_111F14_Lec15Clkr.pdf
-file_size: ''
+file_size: 777203
 file_type: application/pdf
 image_metadata:
   caption: ''
