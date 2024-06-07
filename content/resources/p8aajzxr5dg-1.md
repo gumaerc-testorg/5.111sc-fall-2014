@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/7374e3bbd45a2f40c04ceb4ab5095e79_p8AAjZXr5dg.pdf
+file_size: 55972
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
