@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding principles of chemical
   science: Practice exam 3.'
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/068761143e68bcc22dd79d22a8ab3bb6_MIT5_111F14_PractExam3.pdf
+file_size: 152636
 file_type: application/pdf
 learning_resource_types:
 - Exams

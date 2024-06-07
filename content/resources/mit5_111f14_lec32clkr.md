@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Kinetics: Reaction Mechanisms.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/75dc4ea86ecbf485fc4d2bbc07134071_MIT5_111F14_Lec32Clkr.pdf
-file_size: ''
+file_size: 751646
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information regarding principles of chemica
   science: Exam 3 solutions.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/d6c8a7323b4a88727f26411486ee3da7_MIT5_111F14_Exam3Sol.pdf
-file_size: ''
+file_size: 467919
 file_type: application/pdf
 image_metadata:
   caption: ''

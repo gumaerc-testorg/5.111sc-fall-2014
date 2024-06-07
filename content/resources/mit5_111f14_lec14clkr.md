@@ -4,7 +4,7 @@ description: This resource contains information regarding Valence Bond Theory an
   Hybridization.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/55c7f25b45fde528f4d55a71f7191f40_MIT5_111F14_Lec14Clkr.pdf
-file_size: ''
+file_size: 869247
 file_type: application/pdf
 image_metadata:
   caption: ''

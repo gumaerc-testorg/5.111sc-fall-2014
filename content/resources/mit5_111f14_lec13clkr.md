@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Molecular Orbital Theory.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/020b2e349c4314db63b9794c924786de_MIT5_111F14_Lec13Clkr.pdf
-file_size: ''
+file_size: 792565
 file_type: application/pdf
 image_metadata:
   caption: ''

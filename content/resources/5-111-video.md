@@ -2,6 +2,7 @@
 content_type: resource
 description: video screenshot for 5.111
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/9424f038150090d6e022c087f29c0dd3_5-111-video.jpg
+file_size: 91613
 file_type: image/jpeg
 image_metadata:
   caption: ''

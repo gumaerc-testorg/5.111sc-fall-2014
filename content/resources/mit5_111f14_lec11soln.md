@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding lecture 11 solution.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/7c4822d7eb6e1a39d725396ad1bbafa4_MIT5_111F14_Lec11Soln.pdf
-file_size: ''
+file_size: 219621
 file_type: application/pdf
 image_metadata:
   caption: ''

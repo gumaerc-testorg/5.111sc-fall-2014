@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding  lecture 30.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/9751e46d3f1b60428fb647aaeb7241d9_MIT5_111F14_Lecture30.pdf
-file_size: ''
+file_size: 441676
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: This resource contains information regarding Oxidation-Reduction an
   Electrochemical Cells.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f0a331b2c7f9252921028362eb487287_MIT5_111F14_Lec25Clkr.pdf
-file_size: ''
+file_size: 852585
 file_type: application/pdf
 image_metadata:
   caption: ''

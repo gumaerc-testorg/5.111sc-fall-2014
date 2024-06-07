@@ -4,7 +4,7 @@ description: "This resource contains information regarding Chemical Equilibrium:
   \ Ch\xE2telier\u2019s Principle."
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3bb5e77e622396ce84361562f90177de_MIT5_111F14_Lec19Clkr.pdf
-file_size: ''
+file_size: 790456
 file_type: application/pdf
 image_metadata:
   caption: ''
