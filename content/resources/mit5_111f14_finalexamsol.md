@@ -4,7 +4,7 @@ description: 'This resource contains information regarding principles of chemica
   science: Final exam solutions.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/6ab19c33fab442ae034b455dcb970144_MIT5_111F14_FinalExamSol.pdf
-file_size: ''
+file_size: 653912
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information regarding Lewis Structures: Bre
   of the Octet Rule.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/89cff30eee9508ff3f20c6bea25f5a2c_MIT5_111F14_Lec11Clkr.pdf
-file_size: ''
+file_size: 714890
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,7 +4,7 @@ description: 'This resource contains information regarding The Shapes of Molecul
   VSEPR Theory.'
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/6d3fd6f24c033953c1808d24d97b9524_MIT5_111F14_Lec12Clkr.pdf
-file_size: ''
+file_size: 885946
 file_type: application/pdf
 image_metadata:
   caption: ''

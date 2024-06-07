@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding lecture 15 problem.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/8743a918cbfbd9d79b0fedf0673216cf_MIT5_111F14_Lec15Prob.pdf
-file_size: ''
+file_size: 96123
 file_type: application/pdf
 image_metadata:
   caption: ''

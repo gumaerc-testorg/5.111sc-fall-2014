@@ -4,7 +4,7 @@ description: "This resource contains information regarding Wave-particle duality
   \ matter; Schr\xF6dinger equation."
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5a6558088911c6dfb671ed9e0b136d54_MIT5_111F14_Lec4Clkr.pdf
-file_size: ''
+file_size: 810390
 file_type: application/pdf
 image_metadata:
   caption: ''

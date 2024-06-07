@@ -4,7 +4,7 @@ description: This resource contains information regarding Introduction to Chemic
   Equilibrium.
 draft: false
 file: /courses/5-111sc-principles-of-chemical-science-fall-2014/dc2c31954cfac487a59717849a44f10f_MIT5_111F14_Lec18Clkr.pdf
-file_size: ''
+file_size: 728406
 file_type: application/pdf
 image_metadata:
   caption: ''
