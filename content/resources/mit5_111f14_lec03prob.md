@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture note 3 problems.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/00db7442f05087c75f86190c60ee0dc4_MIT5_111F14_Lec03Prob.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/00db7442f05087c75f86190c60ee0dc4_MIT5_111F14_Lec03Prob.pdf
 file_size: 62200
 file_type: application/pdf
 image_metadata:

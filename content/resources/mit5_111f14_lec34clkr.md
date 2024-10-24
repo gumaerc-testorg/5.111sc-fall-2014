@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Kinetics: Catalysts.'
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/ada140456d0c262289653dea47294ac4_MIT5_111F14_Lec34Clkr.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/ada140456d0c262289653dea47294ac4_MIT5_111F14_Lec34Clkr.pdf
 file_size: 782676
 file_type: application/pdf
 image_metadata:
