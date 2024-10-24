@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Wave-particle duality of
   light.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf
 file_size: 1335505
 file_type: application/pdf
 image_metadata:
