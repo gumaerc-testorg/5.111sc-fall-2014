@@ -17,7 +17,7 @@ parent_title: 'Unit I: The Atom'
 parent_type: CourseSection
 parent_uid: 36cc671a-c04c-270e-9cac-7a210efd6846
 resourcetype: Document
-title: "Principles of Chemical Science, Solutions for Lecture4: Wave-Particle Duality\
+title: "Principles of Chemical Science, Solutions for Lecture 4: Wave-Particle Duality\
   \ of Matter; Schr\xF6dinger Equation"
 uid: 2cad579f-fdfb-2a28-0a6e-2e574b2429c7
 video_files:
