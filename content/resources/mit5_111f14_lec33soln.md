@@ -9,14 +9,15 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Unit V: Chemical Kinetics'
 parent_type: CourseSection
 parent_uid: 124cd4e8-9ed8-6cbe-95d8-52c3908bfac3
 resourcetype: Document
-title: 'Principles of Chemical Science, Problems for Lecture 33: Kinetics and Temperature'
+title: 'Principles of Chemical Science, Solutions for Lecture 33: Kinetics and Temperature'
 uid: 1f0f0b1f-ba76-3afd-809c-d086a03d5384
 video_files:
   archive_url: ''
