@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Periodic Table; Ionic and
   Covalent Bonds.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf
 file_size: 791755
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Introduction to Lewis Structures.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/24dc37bc0c1dfb973de638a443503003_MIT5_111F14_Lec10Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/24dc37bc0c1dfb973de638a443503003_MIT5_111F14_Lec10Clkr.pdf
 file_size: 786774
 file_type: application/pdf
 image_metadata:

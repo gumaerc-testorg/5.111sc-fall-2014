@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 20 problem.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/feb68a6988b89dfc30037bf00689ecc0_MIT5_111F14_Lec20Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/feb68a6988b89dfc30037bf00689ecc0_MIT5_111F14_Lec20Prob.pdf
 file_size: 68592
 file_type: application/pdf
 image_metadata:

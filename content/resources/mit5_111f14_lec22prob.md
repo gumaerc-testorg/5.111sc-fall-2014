@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 22 problem.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/f9d6659dc6a27d60c3225d3a4218382e_MIT5_111F14_Lec22Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/f9d6659dc6a27d60c3225d3a4218382e_MIT5_111F14_Lec22Prob.pdf
 file_size: 107783
 file_type: application/pdf
 image_metadata:

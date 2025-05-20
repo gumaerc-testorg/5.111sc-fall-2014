@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 32solution.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/49eebcdad7bd369b5c72b39c8ddee4e6_MIT5_111F14_Lec32Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/49eebcdad7bd369b5c72b39c8ddee4e6_MIT5_111F14_Lec32Soln.pdf
 file_size: 167673
 file_type: application/pdf
 image_metadata:
