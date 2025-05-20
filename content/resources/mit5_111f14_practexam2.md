@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding principles of chemical
   science: Practice exam 2.'
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/3775a92f716707d301f055ace4a2ada7_MIT5_111F14_PractExam2.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/3775a92f716707d301f055ace4a2ada7_MIT5_111F14_PractExam2.pdf
 file_size: 312317
 file_type: application/pdf
 learning_resource_types:
