@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Acid-base Equilibrium:
   Is MIT Water Safe to Drink?'
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/b798c1c7251ac73169fa01bf853dbcaa_MIT5_111F14_Lec21Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/b798c1c7251ac73169fa01bf853dbcaa_MIT5_111F14_Lec21Clkr.pdf
 file_size: 1115706
 file_type: application/pdf
 image_metadata:
