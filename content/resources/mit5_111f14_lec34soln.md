@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding lecture 34 solution.\r\n"
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/cff92ec710ded5cd5255ec744292f9a6_MIT5_111F14_Lec34Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/cff92ec710ded5cd5255ec744292f9a6_MIT5_111F14_Lec34Soln.pdf
 file_size: 150900
 file_type: application/pdf
 image_metadata:

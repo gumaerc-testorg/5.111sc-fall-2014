@@ -70,7 +70,7 @@ Hector Hernandez describes how Le Chatelier’s principle and the effects of pre
 
 [Hector Hernandez's Personal Story](http://techtv.mit.edu/videos/24157-hector-hernandez-s-personal-story)
 
-[Hector Hernandez](https://www.hectorhhernandez.com/) initially worked in construction, but at age 29, he realized he wanted to use his mind instead of his back in his career. With the help of a key-mentor at a community college, he started studying chemistry, a subject that allowed him to apply his mechanical training and introduced him to colleagues who have become like family.
+[Hector Hernandez](https://web.mit.edu/hectorh/www/HHH/Welcome.html) initially worked in construction, but at age 29, he realized he wanted to use his mind instead of his back in his career. With the help of a key-mentor at a community college, he started studying chemistry, a subject that allowed him to apply his mechanical training and introduced him to colleagues who have become like family.
 
 ## Problems and Solutions
 

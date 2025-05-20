@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 30 problem.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/b82cbfa8cd8bc240999328cfc62fa177_MIT5_111F14_Lec30Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/b82cbfa8cd8bc240999328cfc62fa177_MIT5_111F14_Lec30Prob.pdf
 file_size: 91625
 file_type: application/pdf
 image_metadata:

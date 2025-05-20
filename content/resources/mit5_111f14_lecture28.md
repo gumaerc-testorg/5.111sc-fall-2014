@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 28.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/dba5af481c6a48d4cf0cba53044e46eb_MIT5_111F14_Lecture28.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/dba5af481c6a48d4cf0cba53044e46eb_MIT5_111F14_Lecture28.pdf
 file_size: 577501
 file_type: application/pdf
 image_metadata:

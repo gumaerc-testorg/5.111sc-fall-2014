@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: video placeholder
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/6727c6dc83564dff68acf378c715c89c_placeholder.jpg
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/6727c6dc83564dff68acf378c715c89c_placeholder.jpg
 file_size: 75633
 file_type: image/jpeg
 image_metadata:

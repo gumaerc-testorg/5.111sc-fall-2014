@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture note 6 solutions.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/a22b771edebebdfc73f34b633453b1b5_MIT5_111F14_Lec06Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/a22b771edebebdfc73f34b633453b1b5_MIT5_111F14_Lec06Soln.pdf
 file_size: 80808
 file_type: application/pdf
 image_metadata:
