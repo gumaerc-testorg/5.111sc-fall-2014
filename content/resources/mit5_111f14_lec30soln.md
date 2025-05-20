@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 30 solution.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/8a8f2fe894ad0909bcfdc88b88a7dead_MIT5_111F14_Lec30Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/8a8f2fe894ad0909bcfdc88b88a7dead_MIT5_111F14_Lec30Soln.pdf
 file_size: 93898
 file_type: application/pdf
 image_metadata:

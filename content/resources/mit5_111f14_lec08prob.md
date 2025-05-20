@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 8 problem.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/bdbb0bb5e8d430fba8f59a23d121bb8f_MIT5_111F14_Lec08Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/bdbb0bb5e8d430fba8f59a23d121bb8f_MIT5_111F14_Lec08Prob.pdf
 file_size: 71099
 file_type: application/pdf
 image_metadata:

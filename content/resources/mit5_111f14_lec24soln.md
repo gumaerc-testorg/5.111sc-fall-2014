@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 24 solution.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/efc751719fb18c63ad6349213a972088_MIT5_111F14_Lec24Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/efc751719fb18c63ad6349213a972088_MIT5_111F14_Lec24Soln.pdf
 file_size: 82824
 file_type: application/pdf
 image_metadata:

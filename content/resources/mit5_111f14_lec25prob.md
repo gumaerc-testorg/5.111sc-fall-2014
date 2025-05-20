@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 25 problem.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf
 file_size: 95696
 file_type: application/pdf
 image_metadata:

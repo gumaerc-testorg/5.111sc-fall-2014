@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Kinetics and Temperature.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/5eb4141d27fcf556dd05bc4291e16da3_MIT5_111F14_Lec33Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5eb4141d27fcf556dd05bc4291e16da3_MIT5_111F14_Lec33Clkr.pdf
 file_size: 795149
 file_type: application/pdf
 image_metadata:

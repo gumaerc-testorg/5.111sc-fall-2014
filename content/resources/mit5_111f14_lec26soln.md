@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 26 solution.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/629c65943b4905560ca608a57669cb54_MIT5_111F14_Lec26Soln.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/629c65943b4905560ca608a57669cb54_MIT5_111F14_Lec26Soln.pdf
 file_size: 108697
 file_type: application/pdf
 image_metadata:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Acid-Base Titrations Part
   II.
 draft: false
-file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/5b0472a745b91fa37ae097572488a706_MIT5_111F14_Lec24Clkr.pdf
+file: /courses/5-111sc-principles-of-chemical-science-fall-2014/5b0472a745b91fa37ae097572488a706_MIT5_111F14_Lec24Clkr.pdf
 file_size: 1045437
 file_type: application/pdf
 image_metadata:
