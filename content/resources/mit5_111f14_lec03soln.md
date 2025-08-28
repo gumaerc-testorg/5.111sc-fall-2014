@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture note 3 solutions.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/98dea71a08b7a4270268110f41bcd7e2_MIT5_111F14_Lec03Soln.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/98dea71a08b7a4270268110f41bcd7e2_MIT5_111F14_Lec03Soln.pdf
 file_size: 77972
 file_type: application/pdf
 image_metadata:
