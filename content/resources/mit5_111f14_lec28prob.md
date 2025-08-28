@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 28 problem.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/44430291254e19d44f652e6e1ce38c2a_MIT5_111F14_Lec28Prob.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/44430291254e19d44f652e6e1ce38c2a_MIT5_111F14_Lec28Prob.pdf
 file_size: 80507
 file_type: application/pdf
 image_metadata:

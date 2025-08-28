@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Thermodynamics: Gibbs Free
   Energy and Entropy.'
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/d7a23fbdf710023e9d67639a07a468e8_MIT5_111F14_Lec16Clkr.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/d7a23fbdf710023e9d67639a07a468e8_MIT5_111F14_Lec16Clkr.pdf
 file_size: 747541
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Hydrogen atom energy levels.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/dc1caf614e77c2e61a11a05333c7655e_MIT5_111F14_Lec5Clkr.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/dc1caf614e77c2e61a11a05333c7655e_MIT5_111F14_Lec5Clkr.pdf
 file_size: 887965
 file_type: application/pdf
 image_metadata:

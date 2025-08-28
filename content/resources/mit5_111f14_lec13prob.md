@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 13 problem.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/18185eaa518beceaed1432463ac3928e_MIT5_111F14_Lec13Prob.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/18185eaa518beceaed1432463ac3928e_MIT5_111F14_Lec13Prob.pdf
 file_size: 75881
 file_type: application/pdf
 image_metadata:
