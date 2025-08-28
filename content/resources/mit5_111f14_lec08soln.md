@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 8 solution.
 draft: false
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/864611edace2fea22a1a88ac9f73b7bd_MIT5_111F14_Lec08Soln.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/864611edace2fea22a1a88ac9f73b7bd_MIT5_111F14_Lec08Soln.pdf
 file_size: 74689
 file_type: application/pdf
 image_metadata:

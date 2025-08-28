@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding principles of chemical
   science: Exam 4.'
-file: /courses/5-111sc-principles-of-chemical-science-fall-2014/2e58dd276be56ee03521ee7922e61413_MIT5_111F14_Exam4.pdf
+file: /ol-ocw-studio-app/courses/5-111sc-principles-of-chemical-science-fall-2014/2e58dd276be56ee03521ee7922e61413_MIT5_111F14_Exam4.pdf
 file_size: 1595896
 file_type: application/pdf
 learning_resource_types:
