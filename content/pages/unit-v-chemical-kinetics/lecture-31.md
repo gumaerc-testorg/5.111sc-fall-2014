@@ -110,6 +110,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _[Atomic Romances, Molecular Dances](http://www.lulu.com/shop/mala-radhakrishnan/atomic-romances-molecular-dances/paperback/product-15572338.html)_ is used with permission.
+Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _{{% resource_link "51306ba8-e646-401e-9242-d5831e4d59e9" "Atomic Romances, Molecular Dances" %}}_ is used with permission.
 
 « {{% resource_link bd55059e-8b18-2feb-fb2b-c8aef5adde05 "Previous" %}} | {{% resource_link 31564d9d-89a9-9686-7912-40b6ed37ef6f "Next" %}} »

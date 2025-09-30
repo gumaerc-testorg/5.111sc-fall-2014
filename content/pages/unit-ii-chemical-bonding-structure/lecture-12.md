@@ -101,11 +101,11 @@ Section 3.2
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Detecting Explosives To Save Lives In War Zone](http://techtv.mit.edu/videos/24166-detecting-explosives-to-save-lives-in-war-zone)
+{{% resource_link "d7837245-0e44-4693-b489-acd7c783f2dc" "Detecting Explosives To Save Lives In War Zone" %}}
 
 Stefanie Sydlik explains how her research on designing sensors for explosives depends on the principles of VSEPR (valence shell electron pair repulsion) theory. Stefanie’s sensor design amplifies small-scale changes in bond angles following interaction with a target molecule, and she hopes that her work will lead to better detectors for landmines and improvised explosive devices.
 
-[Stefanie Sydlik’s Personal Story](http://techtv.mit.edu/videos/24165-stefanie-sydlik-s-personal-story)
+{{% resource_link "e25d0b00-0cc0-4735-b179-1d507aedaa20" "Stefanie Sydlik’s Personal Story" %}}
 
 Stefanie Sydlik describes how an exciting “Take Your Daughter to Work Day” convinced her to become a chemist. She considers chemistry to be a bridge between biology and physics that can help explain observations made in everyday life.
 

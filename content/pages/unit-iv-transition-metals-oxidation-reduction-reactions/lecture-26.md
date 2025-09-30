@@ -89,11 +89,11 @@ Sections 12.6–12.12
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Linking Oxidation To DNA Damage](http://techtv.mit.edu/videos/24156-linking-oxidation-to-dna-damage)
+{{% resource_link "43de91c9-d6d1-494c-8105-e5753f257934" "Linking Oxidation To DNA Damage" %}}
 
 John Essigmann describes how oxidation reactions in our bodies are both essential for life and responsible for cell damage that can potentially lead to cancer. John’s research focuses on studying how cells respond to toxins that cause oxidative damage to DNA.
 
-[John Essigmann’s Personal Story](http://techtv.mit.edu/videos/24155-john-essigmann-s-personal-story)
+{{% resource_link "fe4b67a4-9204-4240-a843-0f502215580a" "John Essigmann’s Personal Story" %}}
 
 John Essigmann describes how an early industry experience doing real science pushed him to pursue a career as a professor and professional scientist. He also realizes that the Scientific Method is a framework that can be applied to better understanding questions in the real world.
 

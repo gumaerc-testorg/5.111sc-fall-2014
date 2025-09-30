@@ -98,6 +98,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Excerpt of "[Photosynthesis](https://youtu.be/LgYPeeABoUs)" by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009
+Excerpt of "{{% resource_link "a8af7860-0ef4-4095-92cc-129366c62544" "Photosynthesis" %}}" by {{% resource_link "2ed776eb-af38-4c99-873f-726c4d3517d5" "They Might Be Giants" %}}, courtesy of Idlewild / Disney Sound, used with permission. From {{% resource_link "4ee6a12f-405d-4d3f-9e72-29403339a24d" "_Here Comes Science_" %}}, 2009
 
 « {{% resource_link d1e2f8f6-d6d0-7839-7f7b-8fc6a1024b2a "Previous" %}} | {{% resource_link 4161d4d2-b7e6-4498-f997-dfb3b69eca3c "Next" %}} »
