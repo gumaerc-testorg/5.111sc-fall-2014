@@ -101,11 +101,11 @@ Section 13.16
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Engineering Enzyme Pathways for Biofuel Development](http://techtv.mit.edu/videos/24162-engineering-enzyme-pathways-for-biofuel-development)
+{{% resource_link "c22867ca-ed6a-49ba-93a3-25a54a464a7e" "Engineering Enzyme Pathways for Biofuel Development" %}}
 
 Jingnan Lu’s research focuses on converting carbon dioxide, an environmental pollutant, into biofuel. Jingnan explains how she engineers a carbon-storing microorganism into a biofuel production pathway. She discusses kinetic parameters she is able to change, such as using a more efficient enzyme (a catalyst) and increasing substrate concentration to speed up the production of biofuels.
 
-[Jingnan Lu’s Personal Story](http://techtv.mit.edu/videos/24161-jingnan-lu-s-personal-story)
+{{% resource_link "f393cfd9-9119-4330-ad8f-30eca3bcec45" "Jingnan Lu’s Personal Story" %}}
 
 Jingnan Lu describes how she overcame the challenge of learning English as a teenager when she moved to the United States from China and realized from a research experience that she can use science to help people.
 

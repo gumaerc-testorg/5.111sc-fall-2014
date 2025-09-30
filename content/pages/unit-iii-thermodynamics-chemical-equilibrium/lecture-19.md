@@ -98,6 +98,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-“[Chemists Know](https://youtu.be/iM_I6rtIgn0)” courtesy of Rachel Martin, Eric Potoma, and Gianmarc Grazioli of the [UC Irvine Department of Chemistry](https://www.chem.uci.edu/). Used with permission.
+“{{% resource_link "2ecb9cc2-27d7-4c61-a8c1-2d13e270a691" "Chemists Know" %}}” courtesy of Rachel Martin, Eric Potoma, and Gianmarc Grazioli of the {{% resource_link "2f240a86-67c6-4e62-80c6-52f0ba511e7b" "UC Irvine Department of Chemistry" %}}. Used with permission.
 
 « {{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Previous" %}} | {{% resource_link 080258a7-91c4-feab-68e5-2d45cb5fd92e "Next" %}} »

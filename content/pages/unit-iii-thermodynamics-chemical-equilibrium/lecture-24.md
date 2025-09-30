@@ -112,11 +112,11 @@ Representing Redox Reactions
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Designing Probes To Image Proteins Inside Living Cells](http://techtv.mit.edu/videos/24168-designing-probes-to-image-proteins-inside-living-cells-2-0)
+{{% resource_link "70ff6a71-63c5-4026-b2e9-aef083b0caaa" "Designing Probes To Image Proteins Inside Living Cells" %}}
 
 Samuel Thompson discusses his research on designing new tools to track the movement of proteins within cells. He explains how understanding the relationship between pK{{< sub "a" >}} and pH was critical for the design of a new sensor, which he hopes can be used to image proteins in diseased cells.
 
-[Samuel Thompson’s Personal Story](http://techtv.mit.edu/videos/24167-samuel-thompson-s-personal-story)
+{{% resource_link "5922decb-d4e0-4a85-ba46-2af613442c63" "Samuel Thompson’s Personal Story" %}}
 
 Samuel Thompson brings a sense of play to his science research that he traces back to his love of the performing arts and his early exposure to science as a child. He also relates that his identity as a gay-man from a conservative Southern town helped shape him into a scientist.
 

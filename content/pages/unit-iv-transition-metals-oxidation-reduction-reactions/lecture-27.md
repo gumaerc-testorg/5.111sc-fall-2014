@@ -89,11 +89,11 @@ Sections 16.5–16.7
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Targeting Ulcer Causing _H. pylori_ Bacteria](http://techtv.mit.edu/videos/24152-targeting-ulcer-causing-h-pylori-bacteria)
+{{% resource_link "33dc7b54-0662-4fa3-9d7d-d79f97b76e16" "Targeting Ulcer Causing _H. pylori_ Bacteria" %}}
 
 Sarah Bowman studies a protein from a pathogenic bacterium that is found in the stomach and is known to cause ulcers. She explains how the bacterium survives in the low pH environment of the stomach by using a nickel-dependent protein to buffer the acidity of its environment. Sarah envisions that taking advantage of this nickel requirement could lead to a new treatment for ulcers.
 
-[Sarah Bowman’s Personal Story](http://techtv.mit.edu/videos/24150-sarah-bowman-s-personal-story)
+{{% resource_link "568af04e-95e1-450f-b8ab-e999f28c5508" "Sarah Bowman’s Personal Story" %}}
 
 Sarah Bowman shares how she “changed her mind” about careers after completing her first bachelors degree in the humanities and taking a chemistry class that opened her eyes to the wonders of atoms and molecules. She urges people to pursue what they want to do, regardless of age.
 

@@ -114,11 +114,11 @@ Section 1.11
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Imaging Viruses With Nanoscale MRI](http://techtv.mit.edu/videos/24164-imaging-viruses-with-nanoscale-mri)
+{{% resource_link "10efd55b-6392-4b68-ba3f-f1e8f51f85d6" "Imaging Viruses With Nanoscale MRI" %}}
 
 Ben Ofori-Okai discusses the concept of orbital degeneracy (two orbitals with the same energy) in relation to his research on nanoscale MRI (magnetic resonance imaging). Specifically, he explains how energy level differences detected with nanoscale MRI can lead to the generation of three-dimensional images of biological molecules, such as proteins and viruses.
 
-[Benjamin Ofori-Okai’s Personal Story](http://techtv.mit.edu/videos/24163-benjamin-ofori-okai-s-personal-story)
+{{% resource_link "0907904c-d67b-4f1f-98b8-c70da9ba4dcd" "Benjamin Ofori-Okai’s Personal Story" %}}
 
 Ben Ofori-Okai describes his realization that his love of problem-solving in math class could have an application in chemistry research. He urges anyone intimidated by science to give it another shot because it can be a lot of fun.
 

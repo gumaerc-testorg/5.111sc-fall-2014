@@ -102,11 +102,11 @@ Section 1.6
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Labeling Tumors With Quantum Dots](http://techtv.mit.edu/videos/24170-labeling-tumors-with-quantum-dots) 
+{{% resource_link "11356207-ac48-4a96-9d66-72f1fba232be" "Labeling Tumors With Quantum Dots" %}} 
 
 Quantum dots are tiny semiconductor crystals with vivid colors that can be used as visual labels in biology and medicine. Quantum dots excited by UV radiation emit light with an energy and color that is determined by the size of the quantum dot. Darcy Wanger describes how the characteristics of atomic energy levels relate to the color of quantum dots, and how quantum dots may someday be used as markers in surgical procedures.
 
-[Darcy Wanger’s Personal Story](http://techtv.mit.edu/videos/24169-darcy-wanger-s-personal-story) 
+{{% resource_link "a25e5483-7210-4c69-aa19-7f308e986456" "Darcy Wanger’s Personal Story" %}} 
 
 Darcy Wanger describes her realization that science is not something “done—in the past tense” by people long ago, but rather an exciting pursuit that requires social interactions to solve current real-world questions.
 
