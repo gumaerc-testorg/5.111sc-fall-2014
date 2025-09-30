@@ -64,13 +64,13 @@ Sections 10.1–10.2, and 10.4–10.6
 
 ## Related *Behind the Scenes at MIT* Videos
 
-[Harnessing Microbes For Carbon Dioxide Sequestration](http://techtv.mit.edu/videos/24158-harnessing-microbes-for-carbon-dioxide-sequestration)
+{{% resource_link "fb9198b0-dd10-4dd2-b1e6-8601ddfc982d" "Harnessing Microbes For Carbon Dioxide Sequestration" %}}
 
 Hector Hernandez describes how Le Chatelier’s principle and the effects of pressure on solubility relate to his research on harnessing microbes to remove carbon dioxide from the environment. Hector envisions that his research could someday be used to decrease greenhouse gas emissions from power plants.
 
-[Hector Hernandez's Personal Story](http://techtv.mit.edu/videos/24157-hector-hernandez-s-personal-story)
+{{% resource_link "b64a70da-9e78-45cf-8ebf-46870095749b" "Hector Hernandez's Personal Story" %}}
 
-[Hector Hernandez](https://web.mit.edu/hectorh/www/HHH/Welcome.html) initially worked in construction, but at age 29, he realized he wanted to use his mind instead of his back in his career. With the help of a key-mentor at a community college, he started studying chemistry, a subject that allowed him to apply his mechanical training and introduced him to colleagues who have become like family.
+{{% resource_link "48a7fab0-0e09-4724-a21e-f80b8d08a472" "Hector Hernandez" %}} initially worked in construction, but at age 29, he realized he wanted to use his mind instead of his back in his career. With the help of a key-mentor at a community college, he started studying chemistry, a subject that allowed him to apply his mechanical training and introduced him to colleagues who have become like family.
 
 ## Problems and Solutions
 
