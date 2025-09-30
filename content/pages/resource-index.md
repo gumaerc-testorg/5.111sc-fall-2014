@@ -20,8 +20,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 4d487aaa-0d1e-afee-850e-1ce729120dfa "Problems for Lecture 2 (PDF)" %}}
 {{% resource_link 60127478-97b2-9867-a463-fe6f2c99958f "Solutions for Lecture 2 (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Lecture Video 3: Wave-Particle Duality of Light" "#Lecture_Video3" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link d95f1abe-c7d8-eecc-1614-5b9f2fd2761e "Notes for Lecture 3 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link d60dfec6-ecb5-4eb5-7c5c-5f7f02065311 "Lecture 3 Clicker Questions (PDF - 1.3MB)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link bac5bfe2-3ea5-e2c1-fbfb-f345a7d17bda "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Exploring the Molecular World with X-Ray Diffraction](http://techtv.mit.edu/videos/24154-exploring-the-molecular-world-with-x-ray-diffraction)
-[Catherine L. Drennan's Personal Story](http://techtv.mit.edu/videos/24153-catherine-l-drennan-s-personal-story)
+{{% resource_link "8a8d14b5-c882-4287-bcd4-646ab4eb90cb" "Exploring the Molecular World with X-Ray Diffraction" %}}
+{{% resource_link "146723d0-eea9-4b33-bb0d-e1b16a526808" "Catherine L. Drennan's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 00db7442-f050-87c7-5f86-190c60ee0dc4 "Problems for Lecture 3 (PDF)" %}}
@@ -29,8 +29,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 98dea71a-08b7-a427-0268-110f41bcd7e2 "Solutions for Lecture 3 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Lecture Video 4: Wave-Particle Duality of Matter; Schrödinger Equation" "#Lecture_Video4" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link dcf6ace1-49ab-7a68-3390-398a889c740e "Notes for Lecture 4 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 5a655808-8911-c6df-b671-ed9e0b136d54 "Lecture 4 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Labeling Tumors With Quantum Dots](http://techtv.mit.edu/videos/24170-labeling-tumors-with-quantum-dots)
-[Darcy Wanger's Personal Story](http://techtv.mit.edu/videos/24169-darcy-wanger-s-personal-story)
+{{% resource_link "11356207-ac48-4a96-9d66-72f1fba232be" "Labeling Tumors With Quantum Dots" %}}
+{{% resource_link "a25e5483-7210-4c69-aa19-7f308e986456" "Darcy Wanger's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 08af1f5c-add2-65a8-ef87-f50b95d6ac8a "Problems for Lecture 4 (PDF)" %}}
@@ -42,8 +42,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 6596d9ad-b42c-b4d9-7269-3f0d9da93132 "Solutions for Lecture 5 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Lecture Video 6: Hydrogen Atom Wavefunctions (Orbitals)" "#Lecture_Video6" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 5c828fce-769b-146e-5820-a7d6ed0abfc2 "Notes for Lecture 6 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 367a4051-62c5-1973-8381-542066827391 "Lecture 6 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link c88a7a36-f1d5-0d92-1f8c-175f64643ef4 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Imaging Viruses With Nanoscale MRI](http://techtv.mit.edu/videos/24164-imaging-viruses-with-nanoscale-mri)
-[Benjamin Ofori-Okai's Personal Story](http://techtv.mit.edu/videos/24163-benjamin-ofori-okai-s-personal-story)
+{{% resource_link "10efd55b-6392-4b68-ba3f-f1e8f51f85d6" "Imaging Viruses With Nanoscale MRI" %}}
+{{% resource_link "0907904c-d67b-4f1f-98b8-c70da9ba4dcd" "Benjamin Ofori-Okai's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 402e94d6-7af8-ba17-acf3-4ff51bae89bc "Problems for Lecture 6 (PDF)" %}}
@@ -62,8 +62,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link bdbb0bb5-e8d4-30fb-a8f5-9a23d121bb8f "Problems for Lecture 8 (PDF)" %}}
 {{% resource_link 864611ed-ace2-fea2-2a1a-88ac9f73b7bd "Solutions for Lecture 8 (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Lecture Video 9: Periodic Table; Ionic and Covalent Bonds" "#Lecture_Video9" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link c7892dbb-387c-db86-bc27-d4dbef21a7cb "Notes for Lecture 9 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 3494ce8b-12fe-8b0f-a1c8-4433eebdf175 "Lecture 9 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Applying the Special Properties of Halogens in Drug Design](http://techtv.mit.edu/videos/24160-applying-the-special-properties-of-halogens-in-drug-design)
-[Kateryna Kozyrytska's Personal Story](http://techtv.mit.edu/videos/24159-kateryna-kozyrytska-s-personal-story)
+{{% resource_link "937a1da6-320c-43df-a1ad-bc645d73d96d" "Applying the Special Properties of Halogens in Drug Design" %}}
+{{% resource_link "382f10ec-c726-4552-8fb3-b05d04eae161" "Kateryna Kozyrytska's Personal Story" %}}
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 04e6d703-494d-ded5-582b-4b3b30a457b9 "Problems for Lecture 9 (PDF)" %}}
 
@@ -78,8 +78,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 7c4822d7-eb6e-1a39-d725-396ad1bbafa4 "Solutions for Lecture 11 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 657cf625-0ea3-965b-7507-5d66ee3cb607 "Lecture Video 12: The Shapes of Molecules: VSEPR Theory" "#Lecture_Video12" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 223a7ba2-0d79-4cb1-e06b-8b02484d58e9 "Notes for Lecture 12 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 6d3fd6f2-4c03-3953-c180-8d24d97b9524 "Lecture 12 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 657cf625-0ea3-965b-7507-5d66ee3cb607 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Detecting Explosives To Save Lives In War Zone](http://techtv.mit.edu/videos/24166-detecting-explosives-to-save-lives-in-war-zone)
-[Stefanie Sydlik's Personal Story](http://techtv.mit.edu/videos/24165-stefanie-sydlik-s-personal-story)
+{{% resource_link "d7837245-0e44-4693-b489-acd7c783f2dc" "Detecting Explosives To Save Lives In War Zone" %}}
+{{% resource_link "e25d0b00-0cc0-4735-b179-1d507aedaa20" "Stefanie Sydlik's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 1cbd6f0a-17e0-c77b-ea81-c30d1be7bfbd "Problems for Lecture 12 (PDF)" %}}
@@ -105,8 +105,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link ebbe2257-55d1-38c0-63d8-9ae0292bd360 "Problems for Lecture 16 (PDF)" %}}
 {{% resource_link 446dfcd8-13f7-3f2c-45ec-4768bb47bae0 "Solutions for Lecture 16 (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 186fbfaa-444f-5f39-e059-2f3a9707720a "Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link a2a2199a-65af-c91f-a9b6-abdb6e66cf17 "Notes for Lecture 17 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link bba3789e-e52a-585e-987b-b7aaf519e551 "Lecture 17 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 74d44776-ec12-7476-168b-e0f074e4269b "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Treating Diseases By Using RNAi Technology](http://techtv.mit.edu/videos/24146-treating-diseases-by-using-rnai-technology)
-[Lourdes Alemán's Personal Story](http://techtv.mit.edu/videos/24172-lourdes-aleman-s-personal-story)
+{{% resource_link "a3e9efbd-b1f7-4674-a73e-bdd4b0aa187c" "Treating Diseases By Using RNAi Technology" %}}
+{{% resource_link "7d013199-4860-4d90-93d3-017f4c7c6946" "Lourdes Alemán's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link accc1cb6-1f9f-250f-66f6-7c4a8a1d59ea "Problems for Lecture 17 (PDF)" %}}
@@ -114,8 +114,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 7562819c-2017-49c2-83de-b0e457fefd66 "Solutions for Lecture 17 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Lecture Video 18: Introduction to Chemical Equilibrium" "#Lecture_Video18" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link ec12f084-d867-a5e5-532b-12ee99bdc767 "Notes for Lecture 18 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link dc2c3195-4cfa-c487-a597-17849a44f10f "Lecture 18 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 76a566c6-d12e-b625-ae98-e279e812efbd "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Understanding Chemotherapeutic Drug Targets](http://techtv.mit.edu/videos/24148-understanding-chemotherapeutic-drug-targets)
-[Nozomi Ando's Personal Story](http://techtv.mit.edu/videos/24147-nozomi-ando-s-personal-story)
+{{% resource_link "c97011ab-abbc-4cbc-aa53-f20ab2da2ee3" "Understanding Chemotherapeutic Drug Targets" %}}
+{{% resource_link "dd26a556-f650-4e34-af13-ba90e705f0ed" "Nozomi Ando's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 517e9ef9-c38e-a95d-3c03-876dc53a44c9 "Problems for Lecture 18 (PDF)" %}}
@@ -127,8 +127,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link ef503c9b-bca7-56d5-3f18-f206b099a792 "Solutions for Lecture 19 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 080258a7-91c4-feab-68e5-2d45cb5fd92e "Lecture Video 20: Solubility and Acid-Base Equilibrium" "#Lecture_Video20" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link a4df4b58-67cb-5898-550e-7aca13b34453 "Notes for Lecture 20 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 34f8afd3-2c87-ad4e-59f1-4e2a40d1e5dd "Lecture 20 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 080258a7-91c4-feab-68e5-2d45cb5fd92e "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Harnessing Microbes For Carbon Dioxide Sequestration](http://techtv.mit.edu/videos/24158-harnessing-microbes-for-carbon-dioxide-sequestration)
-[Hector Hernandez's Personal Story](http://techtv.mit.edu/videos/24157-hector-hernandez-s-personal-story)
+{{% resource_link "fb9198b0-dd10-4dd2-b1e6-8601ddfc982d" "Harnessing Microbes For Carbon Dioxide Sequestration" %}}
+{{% resource_link "b64a70da-9e78-45cf-8ebf-46870095749b" "Hector Hernandez's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link feb68a69-88b8-9dfc-3003-7bf00689ecc0 "Problems for Lecture 20 (PDF)" %}}
@@ -148,8 +148,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link c1940b74-8d35-c51f-710b-6b931898b9d5 "Solutions for Lecture 23 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 92c821cc-7504-7b75-ec7b-50ab1516b1b6 "Lecture Video 24: Acid-Base Titrations Part II" "#Lecture_Video24" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link e7096a4d-dba3-df2f-41d1-e565a611bfc5 "Notes for Lecture 24 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 5b0472a7-45b9-1fa3-7ae0-97572488a706 "Lecture 24 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 92c821cc-7504-7b75-ec7b-50ab1516b1b6 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Designing Probes To Image Proteins Inside Living Cells](http://techtv.mit.edu/videos/24168-designing-probes-to-image-proteins-inside-living-cells-2-0)
-[Samuel Thompson's Personal Story](http://techtv.mit.edu/videos/24167-samuel-thompson-s-personal-story)
+{{% resource_link "70ff6a71-63c5-4026-b2e9-aef083b0caaa" "Designing Probes To Image Proteins Inside Living Cells" %}}
+{{% resource_link "5922decb-d4e0-4a85-ba46-2af613442c63" "Samuel Thompson's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link ab233900-a7d0-51e3-f1bc-99dd486f31f7 "Problems for Lecture 24 (PDF)" %}}
@@ -164,16 +164,16 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 354cccf1-e7b4-d7ca-8259-b75e8139e005 "Problems for Lecture 25 (PDF)" %}}
 {{% resource_link 589cf02a-f92f-c6ce-649b-9268bcb2d359 "Solutions for Lecture 25 (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Lecture Video 26: Chemical and Biological Oxidations" "#Lecture_Video26" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 6b82fc0c-bc1d-cf5e-58ed-968b6d8b1882 "Notes for Lecture 26 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 69408f38-994e-9145-f9cf-cc5d7683dc67 "Lecture 26 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 177e7d2c-285d-8b80-4e37-ccce474cee78 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Linking Oxidation To DNA Damage](http://techtv.mit.edu/videos/24156-linking-oxidation-to-dna-damage)
-[John Essigmann's Personal Story](http://techtv.mit.edu/videos/24155-john-essigmann-s-personal-story)
+{{% resource_link "43de91c9-d6d1-494c-8105-e5753f257934" "Linking Oxidation To DNA Damage" %}}
+{{% resource_link "fe4b67a4-9204-4240-a843-0f502215580a" "John Essigmann's Personal Story" %}}
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 6f3a939a-6c1b-8f38-9f84-fed7d3598ef4 "Problems for Lecture 26 (PDF)" %}}
 
 {{% resource_link 629c6594-3b49-0556-0ca6-08a57669cb54 "Solutions for Lecture 26 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3 "Lecture Video 27: Introduction to Transition Metals" "#Lecture_Video27" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link a2f070d4-000a-6fc3-42c6-a941aa9e254c "Notes for Lecture 27 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 284780d6-ca95-9ebb-88bc-6500f14d2111 "Lecture 27 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link c49bcae2-0a4c-a2c2-df6f-fcf549f3c5f3 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Targeting Ulcer Causing _H. pylori_ Bacteria](http://techtv.mit.edu/videos/24152-targeting-ulcer-causing-h-pylori-bacteria)
-[Sarah Bowman's Personal Story](http://techtv.mit.edu/videos/24150-sarah-bowman-s-personal-story)
+{{% resource_link "33dc7b54-0662-4fa3-9d7d-d79f97b76e16" "Targeting Ulcer Causing _H. pylori_ Bacteria" %}}
+{{% resource_link "568af04e-95e1-450f-b8ab-e999f28c5508" "Sarah Bowman's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 4de536ab-4d56-ab3e-f696-8d40afbdffb1 "Problems for Lecture 27 (PDF)" %}}
@@ -207,8 +207,8 @@ This resource index gives users access to most of the course resources in a sing
 {{% resource_link 1f0f0b1f-ba76-3afd-809c-d086a03d5384 "Solutions for Lecture 33 (PDF)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3 "Lecture Video 34: Kinetics: Catalysts" "#Lecture_Video34" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link db306ff0-886a-2363-8832-87c84df23161 "Notes for Lecture 34 (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link ada14045-6d0c-2622-8965-3dea47294ac4 "Lecture 34 Clicker Questions (PDF)" %}}{{< tdclose >}}{{< tdopen >}}{{% resource_link 105db3ee-a1cd-57ff-7cf1-74d083c0cfb3 "Textbook Reading" "#Textbook_Reading" %}}{{< tdclose >}}{{< tdopen >}}
-[Engineering Enzyme Pathways for Biofuel Development](http://techtv.mit.edu/videos/24162-engineering-enzyme-pathways-for-biofuel-development)
-[Jingnan Lu's Personal Story](http://techtv.mit.edu/videos/24161-jingnan-lu-s-personal-story)
+{{% resource_link "c22867ca-ed6a-49ba-93a3-25a54a464a7e" "Engineering Enzyme Pathways for Biofuel Development" %}}
+{{% resource_link "f393cfd9-9119-4330-ad8f-30eca3bcec45" "Jingnan Lu's Personal Story" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link 064b8f80-b9eb-7abe-d04c-a4029152de7e "Problems for Lecture 34 (PDF)" %}}
