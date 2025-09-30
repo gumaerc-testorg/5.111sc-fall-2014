@@ -90,11 +90,11 @@ Sections 9.1–9.4
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Understanding Chemotherapeutic Drug Targets](http://techtv.mit.edu/videos/24148-understanding-chemotherapeutic-drug-targets)
+{{% resource_link "c97011ab-abbc-4cbc-aa53-f20ab2da2ee3" "Understanding Chemotherapeutic Drug Targets" %}}
 
 Nozomi Ando conducts research on a protein that is essential for DNA synthesis, repair, and replication. She explains how this protein is in equilibrium between an active and an inactive form, and how discovering strategies to lock the protein in the inactive conformation could lead to treatments for cancer and/or could be used in the creation of new antibiotics.
 
-[Nozomi Ando’s Personal Story](http://techtv.mit.edu/videos/24147-nozomi-ando-s-personal-story)
+{{% resource_link "dd26a556-f650-4e34-af13-ba90e705f0ed" "Nozomi Ando’s Personal Story" %}}
 
 Nozomi Ando, a self-described artist and comic book lover, describes how her training to become a scientist was akin to that of a ninja. Like a ninja apprenticeship, expert scientists have worked with her at every stage of her career to show her the way of the scientist.
 

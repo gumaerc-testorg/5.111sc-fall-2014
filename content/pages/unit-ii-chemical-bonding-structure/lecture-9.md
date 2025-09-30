@@ -118,11 +118,11 @@ Section 2.5–2.6
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Applying the Special Properties of Halogens in Drug Design](http://techtv.mit.edu/videos/24160-applying-the-special-properties-of-halogens-in-drug-design)
+{{% resource_link "937a1da6-320c-43df-a1ad-bc645d73d96d" "Applying the Special Properties of Halogens in Drug Design" %}}
 
 Bacteria can develop resistance to antibiotics, creating a need for current and future scientists to develop new types on antibiotics. Kateryna Kozyrytska discusses her research on proteins that catalyze a carbon-chlorine bond-forming reaction, and she describes how taking advantage of chlorine’s electronegativity may lead to new medications to fight bacteria and the other “bugs” that make us sick.
 
-[Kateryna Kozyrytska’s Personal Story](http://techtv.mit.edu/videos/24159-kateryna-kozyrytska-s-personal-story)
+{{% resource_link "382f10ec-c726-4552-8fb3-b05d04eae161" "Kateryna Kozyrytska’s Personal Story" %}}
 
 Kateryna Kozyrytska, a female biochemist born in Ukraine, describes how as a scientist she doesn’t have to choose between career and home-life like some of her peers back home, that there are examples, even at MIT, of women who have both.
 
@@ -136,6 +136,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-“[Dogs Teaching Chemistry — Chemical Bonds](https://www.youtube.com/watch?v=_M9khs87xQ8)” courtesy of Lauren Girard. Used with permission.
+“{{% resource_link "ac7ca4db-ab79-4629-b431-06b9af920eb4" "Dogs Teaching Chemistry — Chemical Bonds" %}}” courtesy of Lauren Girard. Used with permission.
 
 « {{% resource_link 3ea46bd0-50d7-7305-ee1a-67bd41bfde89 "Previous" %}} | {{% resource_link 5f89679f-aa0f-ab38-a4ec-a4a166b9093f "Next" %}} »

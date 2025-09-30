@@ -42,8 +42,8 @@ In the following videos, Professor Catherine Drennan describes various aspects o
 - {{% resource_link "d280d577-dba6-293f-2822-1912acd276ab" "Building a Team of Teaching Assistants" %}}
     - {{% resource_link "0167732c-de17-c8d0-4e32-34e21877a558" "Diversity Training: Introduction Video" %}}
     - {{% resource_link "3e8f5e36-eb19-0447-4437-a209b2f13504" "Diversity Training: Addressing Stereotype Threat in the Classroom" %}}
-        - [Presentation Slides](https://drennan.mit.edu/wp-content/uploads/2012/12/diversity-training_ppt-for-website.ppt)
-        - [Pamphlet (PDF)](http://drennan.mit.edu/wp-content/uploads/2018/03/Reading.pdf)
+        - {{% resource_link "6af7f816-bf4d-472a-b0d4-1752214d64ac" "Presentation Slides" %}}
+        - {{% resource_link "2eddb997-f29a-4be9-a977-066fd07ebeae" "Pamphlet (PDF)" %}}
 
 ## Curriculum Information
 

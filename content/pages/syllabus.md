@@ -40,7 +40,7 @@ Each unit has been further divided into a sequence of lectures that cover an amo
 - textbook reading assignment
 - related problems with solutions
 
-The OCW site also includes links to [_Behind the Scenes at MIT_](http://chemvideos.mit.edu/), a collection of short videos that feature current and former MIT researchers explaining how a particular chemistry topic is essential to their research and to an inspiring real-world application.
+The OCW site also includes links to {{% resource_link "2cfa77d3-c2d8-4a89-8e53-55fdf71afd23" "_Behind the Scenes at MIT_" %}}, a collection of short videos that feature current and former MIT researchers explaining how a particular chemistry topic is essential to their research and to an inspiring real-world application.
 
 MIT expects its students to spend about 150 hours on this course. More than half of that time is spent preparing for class and doing assignments. It's difficult to estimate how long it will take you to complete the course, but you can probably expect to spend an hour or more working through each individual session.
 

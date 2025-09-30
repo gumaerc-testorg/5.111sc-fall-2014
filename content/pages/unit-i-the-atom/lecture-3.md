@@ -100,11 +100,11 @@ Section 1.4 – focus on pp. 10–12
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Exploring the Molecular World with X-Ray Diffraction](http://techtv.mit.edu/videos/24154-exploring-the-molecular-world-with-x-ray-diffraction)
+{{% resource_link "8a8d14b5-c882-4287-bcd4-646ab4eb90cb" "Exploring the Molecular World with X-Ray Diffraction" %}}
 
 Cathy Drennan explains how she and her lab apply the principles of constructive / destructive interference, and other characteristics of light (including energy, frequency, and intensity) in their research using X-ray crystallography to determine the three-dimensional shape of proteins. Cathy’s lab captures “snapshots” of proteins in action with a focus on proteins with medical or energy/environment-related applications.
 
-[Catherine L. Drennan’s Personal Story](http://techtv.mit.edu/videos/24153-catherine-l-drennan-s-personal-story)
+{{% resource_link "146723d0-eea9-4b33-bb0d-e1b16a526808" "Catherine L. Drennan’s Personal Story" %}}
 
 Cathy Drennan explains how her dyslexia, and other people’s low expectations of her because of it, have not prevented her from excelling in science and becoming a full professor at MIT. In fact, her “disability” has given her a unique set of visualization skills that allow her to better understand protein shapes and how they fit together.
 
@@ -118,6 +118,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
+Excerpt of “{{% resource_link "3786b3eb-46db-44ed-b87b-ca34f0af7a87" "ROY G. BIV" %}}” by {{% resource_link "2ed776eb-af38-4c99-873f-726c4d3517d5" "They Might Be Giants" %}}, courtesy of Idlewild / Disney Sound, used with permission. From {{% resource_link "4ee6a12f-405d-4d3f-9e72-29403339a24d" "_Here Comes Science_" %}}, 2009.
 
 « {{% resource_link 5f132e2d-e0de-f588-3a91-12c82ff3e6ec "Previous" %}} | {{% resource_link 6c42d420-7daa-f98f-42f3-cf4c8b25c652 "Next" %}} »

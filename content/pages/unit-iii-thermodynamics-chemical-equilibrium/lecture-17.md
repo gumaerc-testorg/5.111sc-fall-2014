@@ -91,11 +91,11 @@ Section 7.16
 Related _Behind the Scenes at MIT_ Videos
 -----------------------------------------
 
-[Treating Diseases By Using RNAi Technology](http://techtv.mit.edu/videos/24146-treating-diseases-by-using-rnai-technology)
+{{% resource_link "a3e9efbd-b1f7-4674-a73e-bdd4b0aa187c" "Treating Diseases By Using RNAi Technology" %}}
 
 RNA interference (RNAi) is a process in which small pieces of silencing RNA (siRNA) bind to cellular RNA, thereby shutting down the production of the encoded protein. Lourdes Alemán discusses how understanding hydrogen bonding and bond strengths is essential to her research on RNAi, and how scientists hope to apply RNAi technology in designing treatments for a wide variety of diseases.
 
-[Lourdes Alemán’s Personal Story](http://techtv.mit.edu/videos/24172-lourdes-aleman-s-personal-story)
+{{% resource_link "7d013199-4860-4d90-93d3-017f4c7c6946" "Lourdes Alemán’s Personal Story" %}}
 
 Lourdes Alemán, a Cuban-American, shares her greatest source of inspiration throughout her journey to becoming a scientist, a story of her father’s remarkable perseverance in the face of overwhelming adversity.
 

@@ -154,6 +154,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
+Excerpt of "{{% resource_link "c81a6db3-6f86-4220-90af-5adf003fccbd" "Meet the Elements" %}}" by {{% resource_link "2ed776eb-af38-4c99-873f-726c4d3517d5" "They Might be Giants" %}}, courtesy of Idlewild / Disney Sound, used with permission. From {{% resource_link "4ee6a12f-405d-4d3f-9e72-29403339a24d" "_Here Comes Science_" %}}, 2009.
 
 « {{% resource_link 89ed642b-2203-7e56-7593-c80ff35cb3f4 "Previous" %}} | {{% resource_link 1defa0f1-c01b-a42e-057e-92fc7b1dec88 "Next" %}} »
